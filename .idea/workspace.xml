@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="615844f6-e67c-44cd-937b-4d6e1ab709ba" name="Changes" comment="Sistemato WebScraping e raccolto i dati corettamente">
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Clean Data/Final_Data_Year_2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Clean Data/Final_Data_Year_2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Clean Data/Final_Data_Year_2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Clean Data/Final_Data_Year_2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/DataMerge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/PDFtoJSON_2013_2014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/PDFtoJSON_2021_2022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Abu Dhabi GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Australian GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Bahrain GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Belgian GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Brazilian GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/British GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Canadian GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Chinese GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/German GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Hungarian GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Indian GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Italian GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Japanese GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Korean GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Malaysian GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Monaco GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Singapore GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/Spanish GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2013/United States GP - 2013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Abu Dhabi GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Australian GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Austrian GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Bahrain GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Belgian GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Brazilian GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/British GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Canadian GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Chinese GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/German GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Hungarian GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Italian GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Japanese GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Malaysian GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Monaco GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Russian GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Singapore GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/Spanish GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2014/United States GP - 2014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Abu Dhabi GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Austrian GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Azerbaijan GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Bahrain GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Belgian GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/British GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Dutch GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Emilia Romagna GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/French GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Hungarian GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Italian GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Mexico GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Monaco GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Portuguese GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Qatari GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Russian GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Sao Paulo GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Saudi Arabian GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Spanish GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Styrian GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/Turkish GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2021/United States GP - 2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Abu Dhabi GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Australian GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Austrian GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Azerbaijan GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Bahrain GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Belgian GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Brazilian GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/British GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Canadian GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Dutch GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Emilia Romagna GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/French GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Hungarian GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Italian GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Japanese GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Mexican GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Miami GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Monaco GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Saudi Arabian GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Singapore GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/Spanish GP - 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Acquisition/Qualifying_Session_Max_Speed_2022/United States GP - 2022.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChromeDriver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ChromeDriver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/WS_Season2013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/WS_Season2013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/WS_Season2014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/WS_Season2014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/WS_Season2021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/WS_Season2021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/WS_Season2022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/WS_Season2022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/chromedriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RawDataCollected/WebScraping/Season2013.json" beforeDir="false" afterPath="$PROJECT_DIR$/RawDataCollected/WebScraping/Season2013.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RawDataCollected/WebScraping/Season2014.json" beforeDir="false" afterPath="$PROJECT_DIR$/RawDataCollected/WebScraping/Season2014.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RawDataCollected/WebScraping/Season2021.json" beforeDir="false" afterPath="$PROJECT_DIR$/RawDataCollected/WebScraping/Season2021.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RawDataCollected/WebScraping/Season2022.json" beforeDir="false" afterPath="$PROJECT_DIR$/RawDataCollected/WebScraping/Season2022.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MVmYzk6OduACPpp1UdDJMzRlEv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/matte/PycharmProjects/DataManagement&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pasot\PycharmProjects\DataManagement\Data Acquisition" />
+      <recent name="C:\Users\pasot\PycharmProjects\DataManagement" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pasot\PycharmProjects\DataManagement\ChromeDriver" />
+      <recent name="C:\Users\pasot\PycharmProjects\DataManagement\Data Acquisition\Qualifying_Session_Max_Speed_2014" />
+      <recent name="C:\Users\pasot\PycharmProjects\DataManagement\Data Acquisition" />
+      <recent name="C:\Users\pasot\PycharmProjects\DataManagement\RawDataCollected\WebScraping" />
+      <recent name="C:\Users\pasot\PycharmProjects\DataManagement" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DataManagement" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="615844f6-e67c-44cd-937b-4d6e1ab709ba" name="Changes" comment="" />
+      <created>1677861175465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677861175465</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Prova">
+      <created>1677862380598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677862380598</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ho aggiunto un file json di esmepio">
+      <created>1677862911972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677862911972</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Inseriti Dati Meteo e sui Satelliti Starlink di SpaceX">
+      <created>1677866824359</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677866824359</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Rimossi File Inutili">
+      <created>1677866966019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677866966019</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creata Connessione con Database Atlas">
+      <created>1677923670738</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677923670738</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Aggiunto codice WEBScraping e Raw Data in formato JSON">
+      <created>1678746909659</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678746909659</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Sistemato WebScraping e raccolto i dati corettamente">
+      <created>1679524256921</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679524256921</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Prova" />
+    <MESSAGE value="Ho aggiunto un file json di esmepio" />
+    <MESSAGE value="Inseriti Dati Meteo e sui Satelliti Starlink di SpaceX" />
+    <MESSAGE value="Rimossi File Inutili" />
+    <MESSAGE value="Creata Connessione con Database Atlas" />
+    <MESSAGE value="Aggiunto codice WEBScraping e Raw Data in formato JSON" />
+    <MESSAGE value="Sistemato WebScraping e raccolto i dati corettamente" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sistemato WebScraping e raccolto i dati corettamente" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Acquisition/WS_Season2021.py</url>
+          <line>312</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Acquisition/WS_Season2021.py</url>
+          <line>313</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Acquisition/WS_Season2021.py</url>
+          <line>244</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Acquisition/WS_Season2021.py</url>
+          <line>247</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Acquisition/WS_Season2021.py</url>
+          <line>249</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Acquisition/WS_Season2021.py</url>
+          <line>248</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Acquisition/WS_Season2021.py</url>
+          <line>253</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Acquisition/WS_Season2021.py</url>
+          <line>260</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Acquisition/WS_Season2021.py</url>
+          <line>261</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Acquisition/WS_Season2021.py</url>
+          <line>262</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Acquisition/WS_Season2021.py</url>
+          <line>263</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="circuit_url" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
