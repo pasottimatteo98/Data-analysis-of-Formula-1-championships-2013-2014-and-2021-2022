@@ -68,6 +68,11 @@
                 "55": "1:38.826",
                 "56": "1:39.202",
                 "57": "1:40.132"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -126,6 +131,11 @@
                 "45": "1:34.788",
                 "46": "1:34.368",
                 "47": "1:34.606"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -195,6 +205,11 @@
                 "56": "1:22.658",
                 "57": "1:38.438",
                 "58": "1:27.465"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -266,6 +281,11 @@
                 "60": "1:21.906",
                 "61": "1:21.757",
                 "62": "1:22.434"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -334,6 +354,11 @@
                 "55": "1:33.983",
                 "56": "1:33.637",
                 "57": "1:33.447"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -409,6 +434,11 @@
                 "62": "1:30.496",
                 "63": "1:29.829",
                 "64": "1:29.593"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -469,6 +499,11 @@
                 "47": "1:19.242",
                 "48": "1:19.508",
                 "49": "1:19.909"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -530,6 +565,11 @@
                 "48": "1:47.966",
                 "49": "1:48.374",
                 "50": "1:48.170"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -613,6 +653,11 @@
                 "68": "1:18.569",
                 "69": "1:18.087",
                 "70": "1:18.348"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -622,6 +667,11 @@
                 "Q1 Time": [
                     "1:42.078"
                 ]
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -705,6 +755,11 @@
                 "68": "1:10.781",
                 "69": "1:10.602",
                 "70": "1:10.785"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -771,6 +826,11 @@
                 "51": "1:39.475",
                 "52": "1:39.306",
                 "53": "1:39.199"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -851,6 +911,11 @@
                 "67": "1:49.545",
                 "68": "1:28.621",
                 "69": "1:28.485"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -910,6 +975,11 @@
                 "42": "1:54.711",
                 "43": "1:54.460",
                 "44": "1:54.256"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -995,9 +1065,20 @@
                 "70": "1:16.144",
                 "71": "1:16.820",
                 "72": "1:17.233"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
-        "Italian GP": {},
+        "Italian GP": {
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
+            }
+        },
         "Singapore GP": {
             "Qualifying": {
                 "Q3 Time": [],
@@ -1032,6 +1113,11 @@
                 "23": "2:03.038",
                 "24": "2:02.121",
                 "25": "2:50.661"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -1041,6 +1127,11 @@
                 "Q1 Time": [
                     "1:31.311"
                 ]
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -1110,6 +1201,11 @@
                 "54": "1:44.265",
                 "55": "1:43.636",
                 "56": "1:44.195"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -1191,6 +1287,11 @@
                 "68": "1:25.115",
                 "69": "1:23.907",
                 "70": "1:23.997"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -1275,6 +1376,11 @@
                 "69": "1:16.287",
                 "70": "1:16.573",
                 "71": "1:16.719"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -1343,8 +1449,14 @@
                 "55": "1:35.096",
                 "56": "1:33.126",
                 "57": "1:33.882"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Williams"
     },
     "Fernando Alonso": {
         "Bahrain GP": {
@@ -1417,6 +1529,11 @@
                 "55": "1:37.672",
                 "56": "1:37.642",
                 "57": "1:38.986"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -1467,6 +1584,11 @@
                 "33": "1:33.831",
                 "34": "1:34.671",
                 "35": "1:34.509"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -1537,6 +1659,11 @@
                 "55": "1:21.322",
                 "56": "1:30.367",
                 "57": "1:20.846"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -1558,6 +1685,11 @@
                 "4": "2:16.968",
                 "5": "1:39.685",
                 "6": "1:40.245"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -1628,6 +1760,11 @@
                 "55": "1:33.441",
                 "56": "1:33.344",
                 "57": "1:33.884"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -1704,6 +1841,11 @@
                 "63": "1:27.421",
                 "64": "1:28.493",
                 "65": "1:28.270"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -1784,6 +1926,11 @@
                 "63": "1:17.473",
                 "64": "1:19.209",
                 "65": "1:19.654"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -1850,6 +1997,11 @@
                 "49": "1:47.989",
                 "50": "1:48.332",
                 "51": "1:49.181"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -1935,6 +2087,11 @@
                 "68": "1:17.358",
                 "69": "1:17.407",
                 "70": "1:18.157"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -2003,6 +2160,11 @@
                 "51": "1:31.707",
                 "52": "1:31.758",
                 "53": "1:31.694"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -2088,6 +2250,11 @@
                 "68": "1:09.347",
                 "69": "1:09.229",
                 "70": "1:08.845"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -2156,6 +2323,11 @@
                 "51": "1:38.370",
                 "52": "1:38.636",
                 "53": "1:38.160"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -2240,6 +2412,11 @@
                 "67": "1:40.785",
                 "68": "1:44.011",
                 "69": "1:31.790"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -2299,6 +2476,11 @@
                 "42": "1:53.313",
                 "43": "1:53.793",
                 "44": "1:53.760"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -2384,6 +2566,11 @@
                 "70": "1:16.186",
                 "71": "1:15.371",
                 "72": "1:15.505"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -2428,6 +2615,11 @@
                 "29": "1:27.698",
                 "30": "1:27.385",
                 "31": "1:33.429"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -2463,6 +2655,11 @@
                 "18": "2:00.709",
                 "19": "2:00.463",
                 "20": "2:00.640"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -2507,6 +2704,11 @@
                 "27": "1:45.047",
                 "28": "1:46.296",
                 "29": "1:48.054"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -2578,6 +2780,11 @@
                 "54": "1:42.467",
                 "55": "1:43.848",
                 "56": "1:42.406"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -2656,6 +2863,11 @@
                 "61": "1:25.660",
                 "62": "1:24.927",
                 "63": "1:24.876"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -2742,6 +2954,11 @@
                 "69": "1:14.924",
                 "70": "1:14.888",
                 "71": "1:14.794"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -2782,8 +2999,14 @@
                 "25": "1:31.065",
                 "26": "1:30.688",
                 "27": "1:33.178"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Alpine F1 Team"
     },
     "Valtteri Bottas": {
         "Bahrain GP": {
@@ -2856,6 +3079,11 @@
                 "55": "1:37.217",
                 "56": "1:37.260",
                 "57": "1:37.870"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -2907,6 +3135,11 @@
                 "34": "1:34.060",
                 "35": "1:37.908",
                 "36": "2:15.831"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -2978,6 +3211,11 @@
                 "56": "1:21.894",
                 "57": "1:22.201",
                 "58": "1:22.757"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -3056,6 +3294,11 @@
                 "61": "1:21.487",
                 "62": "1:21.617",
                 "63": "1:21.267"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -3128,6 +3371,11 @@
                 "55": "1:33.509",
                 "56": "1:33.184",
                 "57": "1:33.520"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -3209,6 +3457,11 @@
                 "64": "1:29.289",
                 "65": "1:29.970",
                 "66": "1:30.378"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -3287,6 +3540,11 @@
                 "63": "1:18.428",
                 "64": "1:18.411",
                 "65": "1:18.275"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -3350,6 +3608,11 @@
                 "48": "1:48.606",
                 "49": "1:48.532",
                 "50": "1:48.289"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -3433,6 +3696,11 @@
                 "68": "1:17.557",
                 "69": "1:17.289",
                 "70": "1:17.977"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -3467,6 +3735,11 @@
                 "19": "1:35.507",
                 "20": "1:35.103",
                 "21": "1:42.975"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -3550,6 +3823,11 @@
                 "68": "1:09.732",
                 "69": "1:10.153",
                 "70": "1:11.092"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -3616,6 +3894,11 @@
                 "51": "1:39.991",
                 "52": "1:37.963",
                 "53": "1:38.358"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -3696,6 +3979,11 @@
                 "63": "1:29.385",
                 "64": "1:24.775",
                 "65": "1:25.179"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -3708,6 +3996,11 @@
             },
             "Laps": {
                 "1": "2:05.651"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -3772,6 +4065,11 @@
                 "51": "1:16.844",
                 "52": "1:17.250",
                 "53": "1:19.499"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -3837,6 +4135,11 @@
                 "50": "2:11.878",
                 "51": "2:23.805",
                 "52": "2:12.057"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -3907,6 +4210,11 @@
                 "57": "1:53.276",
                 "58": "1:56.931",
                 "59": "1:56.059"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -3949,6 +4257,11 @@
                 "27": "1:50.481",
                 "28": "1:50.336",
                 "29": "1:50.089"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -3980,6 +4293,11 @@
                 "14": "1:43.921",
                 "15": "1:43.903",
                 "16": "1:43.784"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -4065,6 +4383,11 @@
                 "68": "1:24.440",
                 "69": "1:23.497",
                 "70": "1:24.341"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -4147,6 +4470,11 @@
                 "69": "1:15.674",
                 "70": "1:15.756",
                 "71": "1:15.966"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -4215,8 +4543,14 @@
                 "55": "1:31.236",
                 "56": "1:30.566",
                 "57": "1:30.743"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Alfa Romeo"
     },
     "Pierre Gasly": {
         "Bahrain GP": {
@@ -4276,6 +4610,11 @@
                 "42": "1:38.329",
                 "43": "1:38.478",
                 "44": "1:38.704"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -4341,6 +4680,11 @@
                 "48": "1:34.331",
                 "49": "1:34.711",
                 "50": "1:34.192"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -4412,6 +4756,11 @@
                 "56": "1:23.031",
                 "57": "1:23.302",
                 "58": "1:23.333"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -4485,6 +4834,11 @@
                 "60": "1:21.920",
                 "61": "1:21.739",
                 "62": "1:22.399"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -4545,6 +4899,11 @@
                 "43": "2:30.077",
                 "44": "1:54.710",
                 "45": "1:52.962"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -4623,6 +4982,11 @@
                 "63": "1:28.873",
                 "64": "1:29.664",
                 "65": "1:28.352"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -4699,6 +5063,11 @@
                 "63": "1:18.122",
                 "64": "1:18.478",
                 "65": "1:18.151"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -4765,6 +5134,11 @@
                 "49": "1:48.598",
                 "50": "1:48.943",
                 "51": "1:49.132"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -4846,6 +5220,11 @@
                 "68": "1:18.640",
                 "69": "1:18.070",
                 "70": "1:18.239"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -4886,6 +5265,11 @@
                 "25": "1:34.763",
                 "26": "1:35.118",
                 "27": "1:34.275"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -4969,6 +5353,11 @@
                 "68": "1:10.797",
                 "69": "1:10.636",
                 "70": "1:10.336"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -5033,6 +5422,11 @@
                 "51": "1:38.833",
                 "52": "1:38.941",
                 "53": "1:38.786"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -5113,6 +5507,11 @@
                 "67": "1:47.355",
                 "68": "1:37.587",
                 "69": "1:29.072"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -5170,6 +5569,11 @@
                 "42": "1:54.206",
                 "43": "1:53.992",
                 "44": "1:54.272"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -5255,6 +5659,11 @@
                 "70": "1:16.270",
                 "71": "1:16.947",
                 "72": "1:16.701"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -5323,6 +5732,11 @@
                 "51": "1:31.926",
                 "52": "1:29.512",
                 "53": "2:03.490"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -5397,6 +5811,11 @@
                 "57": "1:51.662",
                 "58": "1:50.894",
                 "59": "1:52.655"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -5437,6 +5856,11 @@
                 "27": "1:49.689",
                 "28": "1:50.958",
                 "29": "1:49.735"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -5506,6 +5930,11 @@
                 "54": "1:43.757",
                 "55": "1:41.674",
                 "56": "1:42.433"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -5589,6 +6018,11 @@
                 "68": "1:23.487",
                 "69": "1:23.450",
                 "70": "1:23.851"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -5673,6 +6107,11 @@
                 "69": "1:15.697",
                 "70": "1:15.845",
                 "71": "1:15.622"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -5741,8 +6180,14 @@
                 "55": "1:33.845",
                 "56": "1:34.193",
                 "57": "1:32.845"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "AlphaTauri"
     },
     "Lewis Hamilton": {
         "Bahrain GP": {
@@ -5815,6 +6260,11 @@
                 "55": "1:36.566",
                 "56": "1:36.481",
                 "57": "1:36.918"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -5876,6 +6326,11 @@
                 "48": "1:33.185",
                 "49": "1:35.663",
                 "50": "1:35.855"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -5949,6 +6404,11 @@
                 "56": "1:22.407",
                 "57": "1:22.623",
                 "58": "1:22.526"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -6024,6 +6484,11 @@
                 "60": "1:22.083",
                 "61": "1:21.836",
                 "62": "1:22.421"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -6096,6 +6561,11 @@
                 "55": "1:32.941",
                 "56": "1:32.942",
                 "57": "1:33.461"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -6177,6 +6647,11 @@
                 "64": "1:29.833",
                 "65": "1:31.646",
                 "66": "1:34.345"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -6257,6 +6732,11 @@
                 "63": "1:18.309",
                 "64": "1:18.078",
                 "65": "1:18.927"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -6323,6 +6803,11 @@
                 "49": "1:48.086",
                 "50": "1:48.377",
                 "51": "1:48.661"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -6408,6 +6893,11 @@
                 "68": "1:16.937",
                 "69": "1:16.167",
                 "70": "1:16.579"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -6476,6 +6966,11 @@
                 "51": "1:31.397",
                 "52": "1:32.277",
                 "53": "1:30.510"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -6562,6 +7057,11 @@
                 "69": "1:09.525",
                 "70": "1:09.197",
                 "71": "1:09.890"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -6630,6 +7130,11 @@
                 "51": "1:38.712",
                 "52": "1:38.805",
                 "53": "1:39.119"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -6715,6 +7220,11 @@
                 "68": "1:39.986",
                 "69": "1:41.600",
                 "70": "1:26.838"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -6728,6 +7238,11 @@
                 "Q1 Time": [
                     "1:45.736"
                 ]
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -6815,6 +7330,11 @@
                 "70": "1:15.115",
                 "71": "1:15.286",
                 "72": "1:15.782"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -6883,6 +7403,11 @@
                 "51": "1:33.562",
                 "52": "1:29.345",
                 "53": "2:06.632"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -6957,6 +7482,11 @@
                 "57": "1:54.064",
                 "58": "1:50.622",
                 "59": "1:51.101"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -7001,6 +7531,11 @@
                 "27": "1:49.461",
                 "28": "1:48.784",
                 "29": "1:49.835"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -7072,6 +7607,11 @@
                 "54": "1:41.271",
                 "55": "1:41.935",
                 "56": "1:42.174"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -7158,6 +7698,11 @@
                 "69": "1:23.147",
                 "70": "1:22.829",
                 "71": "1:23.382"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -7244,6 +7789,11 @@
                 "69": "1:14.564",
                 "70": "1:14.853",
                 "71": "1:14.776"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -7314,8 +7864,14 @@
                 "53": "1:30.824",
                 "54": "1:30.961",
                 "55": "2:07.585"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Mercedes"
     },
     "Nico H\u00fclkenberg": {
         "Bahrain GP": {
@@ -7384,6 +7940,11 @@
                 "55": "1:39.236",
                 "56": "1:39.102",
                 "57": "1:41.180"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -7445,28 +8006,154 @@
                 "48": "1:35.203",
                 "49": "1:35.568",
                 "50": "1:35.820"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
-        "Australian GP": {},
-        "Emilia Romagna GP": {},
-        "Miami GP": {},
-        "Spanish GP": {},
-        "Monaco GP": {},
-        "Azerbaijan GP": {},
-        "Canadian GP": {},
-        "British GP": {},
-        "Austrian GP": {},
-        "French GP": {},
-        "Hungarian GP": {},
-        "Belgian GP": {},
-        "Dutch GP": {},
-        "Italian GP": {},
-        "Singapore GP": {},
-        "Japanese GP": {},
-        "United States GP": {},
-        "Mexico City GP": {},
-        "Brazilian GP": {},
-        "Abu Dhabi GP": {}
+        "Australian GP": {
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
+            }
+        },
+        "Emilia Romagna GP": {
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
+            }
+        },
+        "Miami GP": {
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
+            }
+        },
+        "Spanish GP": {
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
+            }
+        },
+        "Monaco GP": {
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
+            }
+        },
+        "Azerbaijan GP": {
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
+            }
+        },
+        "Canadian GP": {
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
+            }
+        },
+        "British GP": {
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
+            }
+        },
+        "Austrian GP": {
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
+            }
+        },
+        "French GP": {
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
+            }
+        },
+        "Hungarian GP": {
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
+            }
+        },
+        "Belgian GP": {
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
+            }
+        },
+        "Dutch GP": {
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
+            }
+        },
+        "Italian GP": {
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
+            }
+        },
+        "Singapore GP": {
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
+            }
+        },
+        "Japanese GP": {
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
+            }
+        },
+        "United States GP": {
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
+            }
+        },
+        "Mexico City GP": {
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
+            }
+        },
+        "Brazilian GP": {
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
+            }
+        },
+        "Abu Dhabi GP": {
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
+            }
+        },
+        "Car": "Aston Martin"
     },
     "Nicholas Latifi": {
         "Bahrain GP": {
@@ -7535,6 +8222,11 @@
                 "55": "1:39.119",
                 "56": "1:39.145",
                 "57": "1:39.876"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -7560,6 +8252,11 @@
                 "12": "1:38.597",
                 "13": "1:38.208",
                 "14": "1:38.409"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -7628,6 +8325,11 @@
                 "55": "1:24.202",
                 "56": "1:23.924",
                 "57": "1:24.492"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -7701,6 +8403,11 @@
                 "60": "1:21.353",
                 "61": "1:21.396",
                 "62": "1:21.338"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -7769,6 +8476,11 @@
                 "55": "1:34.800",
                 "56": "1:34.401",
                 "57": "1:35.588"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -7844,6 +8556,11 @@
                 "62": "1:28.700",
                 "63": "1:31.986",
                 "64": "1:29.424"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -7919,6 +8636,11 @@
                 "62": "1:24.442",
                 "63": "1:19.629",
                 "64": "1:19.479"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -7980,6 +8702,11 @@
                 "48": "1:50.126",
                 "49": "1:50.228",
                 "50": "1:50.246"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -8061,6 +8788,11 @@
                 "68": "1:19.249",
                 "69": "1:19.483",
                 "70": "1:19.476"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -8129,6 +8861,11 @@
                 "51": "1:33.937",
                 "52": "1:34.867",
                 "53": "1:34.663"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -8188,6 +8925,11 @@
                 "46": "1:12.655",
                 "47": "1:12.665",
                 "48": "1:19.967"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -8239,6 +8981,11 @@
                 "38": "2:20.387",
                 "39": "1:47.723",
                 "40": "1:39.650"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -8319,6 +9066,11 @@
                 "67": "1:46.528",
                 "68": "1:27.470",
                 "69": "1:27.073"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -8373,6 +9125,11 @@
                 "41": "1:53.083",
                 "42": "1:53.023",
                 "43": "1:52.954"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -8455,6 +9212,11 @@
                 "69": "1:16.741",
                 "70": "1:17.097",
                 "71": "1:17.628"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -8518,6 +9280,11 @@
                 "50": "1:54.072",
                 "51": "2:24.227",
                 "52": "2:11.146"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -8536,6 +9303,11 @@
                 "5": "2:05.585",
                 "6": "2:06.200",
                 "7": "3:14.303"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -8576,6 +9348,11 @@
                 "27": "1:50.697",
                 "28": "1:50.878",
                 "29": "1:50.706"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -8643,6 +9420,11 @@
                 "54": "1:43.485",
                 "55": "1:44.030",
                 "56": "1:43.960"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -8723,6 +9505,11 @@
                 "67": "1:24.438",
                 "68": "1:28.144",
                 "69": "1:25.849"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -8805,6 +9592,11 @@
                 "69": "1:16.098",
                 "70": "1:16.126",
                 "71": "1:16.751"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -8871,8 +9663,14 @@
                 "53": "1:32.773",
                 "54": "1:36.411",
                 "55": "2:02.068"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Williams"
     },
     "Charles Leclerc": {
         "Bahrain GP": {
@@ -8945,6 +9743,11 @@
                 "55": "1:35.427",
                 "56": "1:35.673",
                 "57": "1:36.373"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -9010,6 +9813,11 @@
                 "48": "1:31.634",
                 "49": "1:32.102",
                 "50": "1:31.703"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -9083,6 +9891,11 @@
                 "56": "1:21.629",
                 "57": "1:22.100",
                 "58": "1:20.260"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -9161,6 +9974,11 @@
                 "61": "1:19.615",
                 "62": "1:19.113",
                 "63": "1:18.574"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -9233,6 +10051,11 @@
                 "55": "1:31.844",
                 "56": "1:32.444",
                 "57": "1:33.114"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -9275,6 +10098,11 @@
                 "25": "1:27.030",
                 "26": "1:27.279",
                 "27": "1:49.080"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -9355,6 +10183,11 @@
                 "63": "1:18.539",
                 "64": "1:17.729",
                 "65": "1:18.338"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -9391,6 +10224,11 @@
                 "19": "1:48.109",
                 "20": "2:32.284",
                 "21": "2:13.729"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -9472,6 +10310,11 @@
                 "68": "1:16.772",
                 "69": "1:16.708",
                 "70": "1:17.044"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -9540,6 +10383,11 @@
                 "51": "1:31.747",
                 "52": "1:31.770",
                 "53": "1:31.282"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -9626,6 +10474,11 @@
                 "69": "1:08.580",
                 "70": "1:08.833",
                 "71": "1:09.349"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -9658,6 +10511,11 @@
                 "15": "1:38.844",
                 "16": "1:38.855",
                 "17": "1:38.963"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -9743,6 +10601,11 @@
                 "68": "1:45.489",
                 "69": "1:34.315",
                 "70": "1:24.304"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -9802,6 +10665,11 @@
                 "42": "1:58.112",
                 "43": "2:08.683",
                 "44": "1:49.984"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -9889,6 +10757,11 @@
                 "70": "1:14.766",
                 "71": "1:15.156",
                 "72": "1:16.199"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -9957,6 +10830,11 @@
                 "51": "1:57.073",
                 "52": "2:23.218",
                 "53": "2:12.742"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -10031,6 +10909,11 @@
                 "57": "1:49.069",
                 "58": "1:51.181",
                 "59": "1:49.913"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -10075,6 +10958,11 @@
                 "27": "1:49.523",
                 "28": "1:49.229",
                 "29": "1:50.666"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -10146,6 +11034,11 @@
                 "54": "1:40.915",
                 "55": "1:41.062",
                 "56": "1:41.447"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -10232,6 +11125,11 @@
                 "69": "1:23.869",
                 "70": "1:23.799",
                 "71": "1:25.860"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -10316,6 +11214,11 @@
                 "69": "1:15.007",
                 "70": "1:14.757",
                 "71": "1:14.896"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -10389,8 +11292,14 @@
                 "56": "1:30.033",
                 "57": "1:29.829",
                 "58": "1:30.500"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Ferrari"
     },
     "Kevin Magnussen": {
         "Bahrain GP": {
@@ -10463,6 +11372,11 @@
                 "55": "1:36.937",
                 "56": "1:37.091",
                 "57": "1:37.741"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -10528,6 +11442,11 @@
                 "48": "1:32.779",
                 "49": "1:33.600",
                 "50": "1:32.829"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -10596,6 +11515,11 @@
                 "55": "1:23.451",
                 "56": "1:25.492",
                 "57": "1:24.285"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -10674,6 +11598,11 @@
                 "61": "1:21.238",
                 "62": "1:21.334",
                 "63": "1:22.057"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -10741,6 +11670,11 @@
                 "54": "1:35.227",
                 "55": "1:34.021",
                 "56": "1:36.634"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -10820,6 +11754,11 @@
                 "62": "1:33.410",
                 "63": "1:32.247",
                 "64": "1:33.091"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -10852,6 +11791,11 @@
                 "17": "1:35.034",
                 "18": "1:33.754",
                 "19": "1:37.629"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -10894,6 +11838,11 @@
                 "29": "1:50.683",
                 "30": "1:50.299",
                 "31": "1:50.723"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -10979,6 +11928,11 @@
                 "68": "1:19.929",
                 "69": "1:20.177",
                 "70": "1:20.517"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -11043,6 +11997,11 @@
                 "51": "1:33.123",
                 "52": "1:32.827",
                 "53": "1:32.661"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -11128,6 +12087,11 @@
                 "68": "1:10.589",
                 "69": "1:10.544",
                 "70": "1:10.497"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -11178,6 +12142,11 @@
                 "35": "1:40.373",
                 "36": "1:41.523",
                 "37": "1:40.667"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -11260,6 +12229,11 @@
                 "67": "1:53.884",
                 "68": "1:44.622",
                 "69": "1:26.554"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -11314,6 +12288,11 @@
                 "41": "1:54.316",
                 "42": "1:54.628",
                 "43": "1:56.391"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -11397,6 +12376,11 @@
                 "70": "1:16.490",
                 "71": "1:16.726",
                 "72": "1:16.825"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -11460,6 +12444,11 @@
                 "50": "1:33.236",
                 "51": "1:28.536",
                 "52": "2:07.732"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -11534,6 +12523,11 @@
                 "57": "1:53.585",
                 "58": "1:54.259",
                 "59": "1:52.067"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -11574,6 +12568,11 @@
                 "27": "1:50.432",
                 "28": "1:50.317",
                 "29": "1:50.125"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -11641,6 +12640,11 @@
                 "54": "1:44.095",
                 "55": "1:43.091",
                 "56": "1:44.927"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -11724,6 +12728,11 @@
                 "68": "1:23.823",
                 "69": "1:24.307",
                 "70": "1:24.324"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -11737,6 +12746,11 @@
                 "Q1 Time": [
                     "1:13.954"
                 ]
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -11805,8 +12819,14 @@
                 "55": "1:32.549",
                 "56": "1:32.782",
                 "57": "1:33.239"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Haas F1 Team"
     },
     "Lando Norris": {
         "Bahrain GP": {
@@ -11877,6 +12897,11 @@
                 "55": "1:38.660",
                 "56": "1:38.987",
                 "57": "1:40.556"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -11940,6 +12965,11 @@
                 "48": "1:33.786",
                 "49": "1:35.129",
                 "50": "1:34.754"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -12013,6 +13043,11 @@
                 "56": "1:23.860",
                 "57": "1:24.970",
                 "58": "1:24.744"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -12091,6 +13126,11 @@
                 "61": "1:20.903",
                 "62": "1:21.216",
                 "63": "1:21.128"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -12145,6 +13185,11 @@
                 "37": "1:33.411",
                 "38": "1:33.909",
                 "39": "1:34.190"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -12224,6 +13269,11 @@
                 "64": "1:27.917",
                 "65": "1:28.372",
                 "66": "1:29.179"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -12304,6 +13354,11 @@
                 "63": "1:15.383",
                 "64": "1:15.164",
                 "65": "1:17.069"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -12368,6 +13423,11 @@
                 "49": "1:48.417",
                 "50": "1:48.265",
                 "51": "1:48.954"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -12449,6 +13509,11 @@
                 "68": "1:18.432",
                 "69": "1:18.601",
                 "70": "1:18.960"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -12517,6 +13582,11 @@
                 "51": "1:32.070",
                 "52": "1:32.585",
                 "53": "1:32.325"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -12600,6 +13670,11 @@
                 "68": "1:10.270",
                 "69": "1:10.207",
                 "70": "1:10.103"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -12668,6 +13743,11 @@
                 "51": "1:39.475",
                 "52": "1:39.509",
                 "53": "1:40.132"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -12753,6 +13833,11 @@
                 "68": "1:49.848",
                 "69": "1:31.738",
                 "70": "1:33.054"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -12812,6 +13897,11 @@
                 "42": "1:54.749",
                 "43": "1:55.015",
                 "44": "1:54.757"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -12899,6 +13989,11 @@
                 "70": "1:15.303",
                 "71": "1:15.662",
                 "72": "1:15.351"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -12967,6 +14062,11 @@
                 "51": "1:33.826",
                 "52": "1:28.203",
                 "53": "2:06.276"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -13041,6 +14141,11 @@
                 "57": "1:49.749",
                 "58": "1:50.014",
                 "59": "1:50.751"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -13085,6 +14190,11 @@
                 "27": "1:50.237",
                 "28": "1:50.435",
                 "29": "1:50.653"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -13156,6 +14266,11 @@
                 "54": "1:42.596",
                 "55": "1:42.378",
                 "56": "1:41.884"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -13241,6 +14356,11 @@
                 "68": "1:23.582",
                 "69": "1:23.875",
                 "70": "1:24.313"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -13306,6 +14426,11 @@
                 "48": "1:15.855",
                 "49": "1:16.140",
                 "50": "1:16.079"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -13379,8 +14504,14 @@
                 "56": "1:30.931",
                 "57": "1:30.884",
                 "58": "1:31.136"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "McLaren"
     },
     "Esteban Ocon": {
         "Bahrain GP": {
@@ -13451,6 +14582,11 @@
                 "55": "1:37.251",
                 "56": "1:37.680",
                 "57": "1:38.676"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -13516,6 +14652,11 @@
                 "48": "1:34.216",
                 "49": "1:35.218",
                 "50": "1:34.439"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -13589,6 +14730,11 @@
                 "56": "1:23.059",
                 "57": "1:23.102",
                 "58": "1:22.469"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -13662,6 +14808,11 @@
                 "60": "1:22.046",
                 "61": "1:21.975",
                 "62": "1:22.045"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -13728,6 +14879,11 @@
                 "55": "1:33.267",
                 "56": "1:33.163",
                 "57": "1:33.259"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -13807,6 +14963,11 @@
                 "64": "1:27.829",
                 "65": "1:27.852",
                 "66": "1:28.219"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -13887,6 +15048,11 @@
                 "63": "1:18.162",
                 "64": "1:18.147",
                 "65": "1:18.371"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -13951,6 +15117,11 @@
                 "49": "1:49.179",
                 "50": "1:49.370",
                 "51": "1:49.429"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -14036,6 +15207,11 @@
                 "68": "1:17.403",
                 "69": "1:17.586",
                 "70": "1:17.510"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -14087,6 +15263,11 @@
                 "36": "1:33.726",
                 "37": "1:34.258",
                 "38": "1:33.537"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -14173,6 +15354,11 @@
                 "69": "1:10.752",
                 "70": "1:10.889",
                 "71": "1:11.060"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -14239,6 +15425,11 @@
                 "51": "1:38.801",
                 "52": "1:38.797",
                 "53": "1:38.684"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -14323,6 +15514,11 @@
                 "67": "1:41.342",
                 "68": "1:43.317",
                 "69": "1:30.274"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -14382,6 +15578,11 @@
                 "42": "1:53.258",
                 "43": "1:53.229",
                 "44": "1:53.045"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -14467,6 +15668,11 @@
                 "70": "1:15.968",
                 "71": "1:15.395",
                 "72": "1:15.554"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -14533,6 +15739,11 @@
                 "51": "1:33.303",
                 "52": "1:30.957",
                 "53": "2:00.319"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -14570,6 +15781,11 @@
                 "24": "2:01.105",
                 "25": "2:01.171",
                 "26": "2:24.936"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -14614,6 +15830,11 @@
                 "27": "1:49.064",
                 "28": "1:49.261",
                 "29": "1:49.582"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -14681,6 +15902,11 @@
                 "54": "1:42.359",
                 "55": "1:42.129",
                 "56": "1:41.652"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -14766,6 +15992,11 @@
                 "68": "1:23.766",
                 "69": "1:23.860",
                 "70": "1:24.031"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -14852,6 +16083,11 @@
                 "69": "1:15.460",
                 "70": "1:15.631",
                 "71": "1:15.861"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -14925,8 +16161,14 @@
                 "56": "1:29.725",
                 "57": "1:29.574",
                 "58": "1:30.021"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Alpine F1 Team"
     },
     "Sergio P\u00e9rez": {
         "Bahrain GP": {
@@ -14998,6 +16240,11 @@
                 "54": "1:36.755",
                 "55": "1:36.436",
                 "56": "1:36.286"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -15063,6 +16310,11 @@
                 "48": "1:32.333",
                 "49": "1:32.485",
                 "50": "1:33.160"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -15136,6 +16388,11 @@
                 "56": "1:21.791",
                 "57": "1:21.690",
                 "58": "1:21.094"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -15214,6 +16471,11 @@
                 "61": "1:20.104",
                 "62": "1:20.752",
                 "63": "1:21.767"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -15286,6 +16548,11 @@
                 "55": "1:31.971",
                 "56": "1:31.863",
                 "57": "1:33.202"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -15367,6 +16634,11 @@
                 "64": "1:25.752",
                 "65": "1:26.096",
                 "66": "1:26.056"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -15447,6 +16719,11 @@
                 "63": "1:17.997",
                 "64": "1:17.700",
                 "65": "1:17.917"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -15513,6 +16790,11 @@
                 "49": "1:47.168",
                 "50": "1:47.197",
                 "51": "1:47.806"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -15533,6 +16815,11 @@
                 "5": "1:19.787",
                 "6": "1:19.400",
                 "7": "1:18.844"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -15601,6 +16888,11 @@
                 "51": "1:31.102",
                 "52": "1:31.976",
                 "53": "1:31.391"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -15638,6 +16930,11 @@
                 "22": "1:13.540",
                 "23": "1:14.844",
                 "24": "1:18.175"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -15706,6 +17003,11 @@
                 "51": "1:37.964",
                 "52": "1:37.952",
                 "53": "1:38.306"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -15789,6 +17091,11 @@
                 "68": "1:47.818",
                 "69": "1:34.241",
                 "70": "1:25.113"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -15848,6 +17155,11 @@
                 "42": "1:53.040",
                 "43": "1:52.671",
                 "44": "1:52.843"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -15935,6 +17247,11 @@
                 "70": "1:16.759",
                 "71": "1:15.403",
                 "72": "1:15.349"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -16003,6 +17320,11 @@
                 "51": "1:33.801",
                 "52": "1:27.911",
                 "53": "2:06.807"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -16077,6 +17399,11 @@
                 "57": "1:48.165",
                 "58": "1:49.009",
                 "59": "1:49.652"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -16121,6 +17448,11 @@
                 "27": "1:49.258",
                 "28": "1:49.491",
                 "29": "1:50.319"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -16192,6 +17524,11 @@
                 "54": "1:40.724",
                 "55": "1:40.433",
                 "56": "1:40.772"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -16278,6 +17615,11 @@
                 "69": "1:22.718",
                 "70": "1:22.491",
                 "71": "1:22.707"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -16364,6 +17706,11 @@
                 "69": "1:15.188",
                 "70": "1:15.042",
                 "71": "1:15.799"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -16437,8 +17784,14 @@
                 "56": "1:29.446",
                 "57": "1:29.573",
                 "58": "1:29.856"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Red Bull"
     },
     "Daniel Ricciardo": {
         "Bahrain GP": {
@@ -16507,6 +17860,11 @@
                 "55": "1:38.639",
                 "56": "1:38.860",
                 "57": "1:40.084"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -16555,6 +17913,11 @@
                 "33": "1:34.701",
                 "34": "1:34.487",
                 "35": "1:34.618"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -16628,6 +17991,11 @@
                 "56": "1:22.754",
                 "57": "1:22.689",
                 "58": "1:23.578"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -16705,6 +18073,11 @@
                 "60": "1:21.770",
                 "61": "1:21.577",
                 "62": "1:26.437"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -16775,6 +18148,11 @@
                 "55": "1:33.572",
                 "56": "1:33.265",
                 "57": "1:33.613"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -16855,6 +18233,11 @@
                 "63": "1:29.164",
                 "64": "1:29.120",
                 "65": "1:28.960"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -16933,6 +18316,11 @@
                 "63": "1:17.579",
                 "64": "1:18.198",
                 "65": "1:18.524"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -16997,6 +18385,11 @@
                 "49": "1:48.597",
                 "50": "1:48.904",
                 "51": "1:48.903"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -17082,6 +18475,11 @@
                 "68": "1:18.503",
                 "69": "1:18.427",
                 "70": "1:18.861"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -17148,6 +18546,11 @@
                 "51": "1:33.798",
                 "52": "1:34.981",
                 "53": "1:34.608"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -17229,6 +18632,11 @@
                 "68": "1:10.721",
                 "69": "1:10.454",
                 "70": "1:10.182"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -17295,6 +18703,11 @@
                 "51": "1:39.363",
                 "52": "1:39.207",
                 "53": "1:39.290"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -17379,6 +18792,11 @@
                 "67": "1:47.424",
                 "68": "1:38.367",
                 "69": "1:29.992"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -17436,6 +18854,11 @@
                 "42": "1:55.078",
                 "43": "1:54.828",
                 "44": "1:55.095"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -17519,6 +18942,11 @@
                 "70": "1:16.414",
                 "71": "1:16.767",
                 "72": "1:16.320"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -17579,6 +19007,11 @@
                 "43": "1:26.751",
                 "44": "1:27.184",
                 "45": "1:27.296"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -17649,6 +19082,11 @@
                 "57": "1:51.006",
                 "58": "1:52.526",
                 "59": "1:52.080"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -17691,6 +19129,11 @@
                 "27": "1:49.538",
                 "28": "1:49.793",
                 "29": "1:49.565"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -17758,6 +19201,11 @@
                 "54": "1:42.819",
                 "55": "1:42.420",
                 "56": "1:42.696"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -17841,6 +19289,11 @@
                 "68": "1:22.801",
                 "69": "1:22.955",
                 "70": "1:23.318"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -17852,6 +19305,11 @@
                 "Q1 Time": [
                     "1:14.931"
                 ]
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -17925,8 +19383,14 @@
                 "56": "1:31.278",
                 "57": "1:31.114",
                 "58": "1:30.856"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "McLaren"
     },
     "George Russell": {
         "Bahrain GP": {
@@ -17999,6 +19463,11 @@
                 "55": "1:36.395",
                 "56": "1:36.302",
                 "57": "1:37.401"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -18064,6 +19533,11 @@
                 "48": "1:33.345",
                 "49": "1:33.917",
                 "50": "1:35.208"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -18137,6 +19611,11 @@
                 "56": "1:21.938",
                 "57": "1:22.491",
                 "58": "1:21.879"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -18213,6 +19692,11 @@
                 "61": "1:21.503",
                 "62": "1:21.579",
                 "63": "1:21.279"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -18283,6 +19767,11 @@
                 "55": "1:32.244",
                 "56": "1:32.195",
                 "57": "1:32.771"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -18364,6 +19853,11 @@
                 "64": "1:27.965",
                 "65": "1:28.936",
                 "66": "1:30.571"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -18444,6 +19938,11 @@
                 "63": "1:18.063",
                 "64": "1:18.440",
                 "65": "1:19.000"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -18510,6 +20009,11 @@
                 "49": "1:47.543",
                 "50": "1:48.064",
                 "51": "1:48.610"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -18595,6 +20099,11 @@
                 "68": "1:16.880",
                 "69": "1:16.749",
                 "70": "1:16.785"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -18608,6 +20117,11 @@
                 "Q1 Time": [
                     "1:40.028"
                 ]
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -18694,6 +20208,11 @@
                 "69": "1:09.739",
                 "70": "1:09.489",
                 "71": "1:09.585"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -18762,6 +20281,11 @@
                 "51": "1:37.548",
                 "52": "1:38.349",
                 "53": "1:38.013"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -18847,6 +20371,11 @@
                 "68": "1:41.352",
                 "69": "1:40.381",
                 "70": "1:27.399"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -18906,6 +20435,11 @@
                 "42": "1:52.790",
                 "43": "1:52.593",
                 "44": "1:52.637"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -18993,6 +20527,11 @@
                 "70": "1:14.541",
                 "71": "1:15.535",
                 "72": "1:13.671"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -19061,6 +20600,11 @@
                 "51": "1:33.770",
                 "52": "1:28.695",
                 "53": "2:06.853"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -19131,6 +20675,11 @@
                 "55": "1:51.674",
                 "56": "1:55.950",
                 "57": "1:51.903"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -19175,6 +20724,11 @@
                 "27": "1:47.709",
                 "28": "1:48.359",
                 "29": "1:49.685"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -19246,6 +20800,11 @@
                 "54": "1:41.888",
                 "55": "2:04.017",
                 "56": "1:38.788"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -19332,6 +20891,11 @@
                 "69": "1:25.973",
                 "70": "1:47.803",
                 "71": "1:20.153"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -19418,6 +20982,11 @@
                 "69": "1:14.460",
                 "70": "1:14.515",
                 "71": "1:14.878"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -19491,8 +21060,14 @@
                 "56": "1:31.217",
                 "57": "1:31.165",
                 "58": "1:31.553"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Mercedes"
     },
     "Carlos Sainz": {
         "Bahrain GP": {
@@ -19565,6 +21140,11 @@
                 "55": "1:36.075",
                 "56": "1:35.767",
                 "57": "1:36.269"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -19630,6 +21210,11 @@
                 "48": "1:31.905",
                 "49": "1:32.008",
                 "50": "1:32.665"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -19646,6 +21231,11 @@
             },
             "Laps": {
                 "1": "1:39.028"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -19657,6 +21247,11 @@
                 "Q1 Time": [
                     "1:19.305"
                 ]
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -19729,6 +21324,11 @@
                 "55": "1:31.894",
                 "56": "1:31.790",
                 "57": "1:32.044"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -19810,6 +21410,11 @@
                 "64": "1:28.256",
                 "65": "1:27.640",
                 "66": "1:28.221"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -19890,6 +21495,11 @@
                 "63": "1:18.036",
                 "64": "1:17.916",
                 "65": "1:18.132"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -19913,6 +21523,11 @@
                 "6": "1:49.169",
                 "7": "1:49.260",
                 "8": "1:49.309"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -19998,6 +21613,11 @@
                 "68": "1:16.268",
                 "69": "1:15.840",
                 "70": "1:16.442"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -20066,6 +21686,11 @@
                 "51": "1:31.141",
                 "52": "1:31.474",
                 "53": "1:31.526"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -20137,6 +21762,11 @@
                 "54": "1:09.030",
                 "55": "1:08.649",
                 "56": "1:09.073"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -20203,6 +21833,11 @@
                 "51": "1:35.781",
                 "52": "1:36.352",
                 "53": "1:36.446"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -20288,6 +21923,11 @@
                 "68": "1:45.307",
                 "69": "1:36.569",
                 "70": "1:26.862"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -20347,6 +21987,11 @@
                 "42": "1:52.710",
                 "43": "1:52.501",
                 "44": "1:52.605"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -20434,6 +22079,11 @@
                 "70": "1:15.646",
                 "71": "1:15.181",
                 "72": "1:14.836"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -20502,6 +22152,11 @@
                 "51": "1:33.571",
                 "52": "1:29.168",
                 "53": "2:06.976"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -20576,6 +22231,11 @@
                 "57": "1:48.712",
                 "58": "1:48.746",
                 "59": "1:48.414"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -20589,6 +22249,11 @@
                 "Q1 Time": [
                     "1:30.336"
                 ]
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -20605,6 +22270,11 @@
             },
             "Laps": {
                 "1": "1:55.016"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -20691,6 +22361,11 @@
                 "69": "1:23.180",
                 "70": "1:23.746",
                 "71": "1:23.699"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -20777,6 +22452,11 @@
                 "69": "1:14.398",
                 "70": "1:14.465",
                 "71": "1:14.492"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -20850,8 +22530,14 @@
                 "56": "1:29.595",
                 "57": "1:29.980",
                 "58": "1:29.906"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Ferrari"
     },
     "Mick Schumacher": {
         "Bahrain GP": {
@@ -20922,6 +22608,11 @@
                 "55": "1:39.201",
                 "56": "1:39.090",
                 "57": "1:40.498"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -20933,6 +22624,11 @@
                 "Q1 Time": [
                     "1:30.167"
                 ]
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -21003,6 +22699,11 @@
                 "55": "1:23.006",
                 "56": "1:23.338",
                 "57": "1:24.171"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -21078,6 +22779,11 @@
                 "60": "1:20.345",
                 "61": "1:20.940",
                 "62": "1:21.301"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -21148,6 +22854,11 @@
                 "55": "2:01.556",
                 "56": "1:33.205",
                 "57": "1:32.528"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -21228,6 +22939,11 @@
                 "63": "1:29.727",
                 "64": "1:31.005",
                 "65": "1:31.153"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -21265,6 +22981,11 @@
                 "22": "1:34.264",
                 "23": "1:30.256",
                 "24": "1:24.778"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -21326,6 +23047,11 @@
                 "48": "1:49.474",
                 "49": "1:49.154",
                 "50": "1:51.525"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -21359,6 +23085,11 @@
                 "16": "1:19.830",
                 "17": "1:19.598",
                 "18": "1:19.142"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -21423,6 +23154,11 @@
                 "51": "1:33.270",
                 "52": "1:32.740",
                 "53": "1:33.479"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -21508,6 +23244,11 @@
                 "68": "1:11.111",
                 "69": "1:11.057",
                 "70": "1:10.248"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -21572,6 +23313,11 @@
                 "51": "1:40.135",
                 "52": "1:40.139",
                 "53": "1:40.031"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -21654,6 +23400,11 @@
                 "67": "1:49.565",
                 "68": "1:34.303",
                 "69": "1:28.608"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -21710,6 +23461,11 @@
                 "41": "1:53.370",
                 "42": "1:55.762",
                 "43": "1:55.558"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -21797,6 +23553,11 @@
                 "70": "1:17.449",
                 "71": "1:16.614",
                 "72": "1:16.422"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -21861,6 +23622,11 @@
                 "51": "1:33.670",
                 "52": "1:31.571",
                 "53": "1:57.565"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -21932,6 +23698,11 @@
                 "56": "1:52.865",
                 "57": "1:51.193",
                 "58": "1:50.290"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -21974,6 +23745,11 @@
                 "27": "1:50.227",
                 "28": "1:50.332",
                 "29": "1:50.417"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -22041,6 +23817,11 @@
                 "54": "1:44.077",
                 "55": "1:42.320",
                 "56": "1:43.488"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -22122,6 +23903,11 @@
                 "68": "1:24.168",
                 "69": "1:24.558",
                 "70": "1:24.755"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -22204,6 +23990,11 @@
                 "69": "1:15.809",
                 "70": "1:16.370",
                 "71": "1:16.419"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -22274,8 +24065,14 @@
                 "55": "1:32.570",
                 "56": "1:34.761",
                 "57": "1:32.757"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Haas F1 Team"
     },
     "Lance Stroll": {
         "Bahrain GP": {
@@ -22344,6 +24141,11 @@
                 "55": "1:38.328",
                 "56": "1:38.829",
                 "57": "1:40.395"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -22406,6 +24208,11 @@
                 "47": "1:34.484",
                 "48": "2:02.768",
                 "49": "1:38.205"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -22473,6 +24280,11 @@
                 "56": "1:24.933",
                 "57": "1:24.295",
                 "58": "1:24.460"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -22548,6 +24360,11 @@
                 "60": "1:21.787",
                 "61": "1:22.016",
                 "62": "1:22.304"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -22620,6 +24437,11 @@
                 "55": "1:33.840",
                 "56": "1:35.307",
                 "57": "1:33.432"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -22696,6 +24518,11 @@
                 "63": "1:28.624",
                 "64": "1:28.064",
                 "65": "1:29.850"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -22772,6 +24599,11 @@
                 "63": "1:18.281",
                 "64": "1:18.411",
                 "65": "1:18.996"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -22829,6 +24661,11 @@
                 "44": "1:49.681",
                 "45": "1:50.123",
                 "46": "2:11.009"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -22910,6 +24747,11 @@
                 "68": "1:18.052",
                 "69": "1:17.698",
                 "70": "1:19.044"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -22974,6 +24816,11 @@
                 "51": "1:32.812",
                 "52": "1:32.416",
                 "53": "1:32.379"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -23055,6 +24902,11 @@
                 "68": "1:10.353",
                 "69": "1:10.228",
                 "70": "1:10.631"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -23119,6 +24971,11 @@
                 "51": "1:39.411",
                 "52": "1:39.185",
                 "53": "1:40.605"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -23201,6 +25058,11 @@
                 "67": "1:45.491",
                 "68": "1:36.996",
                 "69": "1:29.170"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -23258,6 +25120,11 @@
                 "42": "1:54.868",
                 "43": "1:54.223",
                 "44": "1:54.760"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -23343,6 +25210,11 @@
                 "70": "1:15.824",
                 "71": "1:15.884",
                 "72": "1:15.839"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -23393,6 +25265,11 @@
                 "37": "1:28.318",
                 "38": "1:27.475",
                 "39": "1:34.274"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -23465,6 +25342,11 @@
                 "57": "1:50.420",
                 "58": "1:50.283",
                 "59": "1:51.958"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -23505,6 +25387,11 @@
                 "27": "1:48.102",
                 "28": "1:49.672",
                 "29": "1:49.611"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -23541,6 +25428,11 @@
                 "19": "2:27.182",
                 "20": "2:31.739",
                 "21": "2:33.238"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -23622,6 +25514,11 @@
                 "68": "1:23.751",
                 "69": "1:24.086",
                 "70": "1:28.441"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -23697,6 +25594,11 @@
                 "69": "1:15.607",
                 "70": "1:15.713",
                 "71": "1:15.719"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -23768,8 +25670,14 @@
                 "56": "1:30.508",
                 "57": "1:31.844",
                 "58": "1:31.330"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Aston Martin"
     },
     "Yuki Tsunoda": {
         "Bahrain GP": {
@@ -23838,6 +25746,11 @@
                 "55": "1:37.264",
                 "56": "1:37.565",
                 "57": "1:38.891"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -23845,6 +25758,11 @@
                 "Q3 Time": [],
                 "Q2 Time": [],
                 "Q1 Time": []
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -23915,6 +25833,11 @@
                 "55": "1:25.428",
                 "56": "1:23.342",
                 "57": "1:23.808"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -23989,6 +25912,11 @@
                 "61": "1:20.544",
                 "62": "1:21.868",
                 "63": "1:21.186"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -24061,6 +25989,11 @@
                 "55": "1:33.035",
                 "56": "1:33.690",
                 "57": "1:35.133"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -24139,6 +26072,11 @@
                 "63": "1:27.159",
                 "64": "1:27.826",
                 "65": "1:28.314"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -24216,6 +26154,11 @@
                 "62": "1:15.334",
                 "63": "1:17.660",
                 "64": "1:15.700"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -24281,6 +26224,11 @@
                 "48": "1:47.668",
                 "49": "1:48.274",
                 "50": "1:48.533"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -24339,6 +26287,11 @@
                 "45": "1:19.423",
                 "46": "1:19.656",
                 "47": "1:35.346"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -24405,6 +26358,11 @@
                 "51": "1:34.191",
                 "52": "1:33.832",
                 "53": "1:34.089"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -24488,6 +26446,11 @@
                 "68": "1:10.822",
                 "69": "1:10.769",
                 "70": "1:10.646"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -24520,6 +26483,11 @@
                 "15": "1:41.886",
                 "16": "1:42.279",
                 "17": "1:42.297"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -24599,6 +26567,11 @@
                 "66": "1:50.910",
                 "67": "1:44.680",
                 "68": "1:37.407"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -24654,6 +26627,11 @@
                 "42": "1:55.420",
                 "43": "1:54.684",
                 "44": "1:53.864"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -24712,6 +26690,11 @@
                 "41": "1:17.276",
                 "42": "1:20.208",
                 "43": "3:28.313"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -24775,6 +26758,11 @@
                 "50": "2:04.291",
                 "51": "2:23.787",
                 "52": "2:12.263"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -24824,6 +26812,11 @@
                 "32": "1:58.716",
                 "33": "2:06.961",
                 "34": "2:30.183"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -24866,6 +26859,11 @@
                 "27": "1:47.094",
                 "28": "1:47.181",
                 "29": "1:47.639"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -24935,6 +26933,11 @@
                 "54": "1:42.472",
                 "55": "1:42.710",
                 "56": "1:42.341"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -24998,6 +27001,11 @@
                 "48": "1:23.403",
                 "49": "1:23.589",
                 "50": "1:47.784"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -25079,6 +27087,11 @@
                 "68": "1:16.097",
                 "69": "1:16.406",
                 "70": "1:16.387"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -25150,8 +27163,14 @@
                 "56": "1:32.040",
                 "57": "1:31.639",
                 "58": "1:32.280"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "AlphaTauri"
     },
     "Max Verstappen": {
         "Bahrain GP": {
@@ -25221,6 +27240,11 @@
                 "52": "1:35.462",
                 "53": "1:35.927",
                 "54": "2:04.094"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -25286,6 +27310,11 @@
                 "48": "1:31.861",
                 "49": "1:32.079",
                 "50": "1:31.772"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -25339,6 +27368,11 @@
                 "36": "1:22.335",
                 "37": "1:21.677",
                 "38": "1:23.306"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -25417,6 +27451,11 @@
                 "61": "1:19.947",
                 "62": "1:19.609",
                 "63": "1:20.155"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -25489,6 +27528,11 @@
                 "55": "1:31.750",
                 "56": "1:31.740",
                 "57": "1:31.458"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -25570,6 +27614,11 @@
                 "64": "1:27.345",
                 "65": "1:27.611",
                 "66": "1:27.437"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -25650,6 +27699,11 @@
                 "63": "1:18.123",
                 "64": "1:17.768",
                 "65": "1:17.965"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -25716,6 +27770,11 @@
                 "49": "1:46.855",
                 "50": "1:46.050",
                 "51": "1:47.774"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -25801,6 +27860,11 @@
                 "68": "1:16.338",
                 "69": "1:15.997",
                 "70": "1:15.916"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -25869,6 +27933,11 @@
                 "51": "1:33.051",
                 "52": "1:32.858",
                 "53": "1:33.581"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -25955,6 +28024,11 @@
                 "69": "1:08.873",
                 "70": "1:08.169",
                 "71": "1:08.539"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -26023,6 +28097,11 @@
                 "51": "1:39.093",
                 "52": "1:38.288",
                 "53": "1:38.442"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -26108,6 +28187,11 @@
                 "68": "1:37.167",
                 "69": "1:45.578",
                 "70": "1:28.244"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -26167,6 +28251,11 @@
                 "42": "1:52.157",
                 "43": "1:52.731",
                 "44": "1:53.149"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -26254,6 +28343,11 @@
                 "70": "1:14.230",
                 "71": "1:14.352",
                 "72": "1:15.061"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -26322,6 +28416,11 @@
                 "51": "2:16.259",
                 "52": "2:23.993",
                 "53": "2:12.367"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -26396,6 +28495,11 @@
                 "57": "1:50.934",
                 "58": "1:50.597",
                 "59": "1:51.068"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -26440,6 +28544,11 @@
                 "27": "1:47.991",
                 "28": "1:48.249",
                 "29": "1:48.944"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -26511,6 +28620,11 @@
                 "54": "1:40.168",
                 "55": "1:40.674",
                 "56": "1:40.654"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -26597,6 +28711,11 @@
                 "69": "1:22.794",
                 "70": "1:22.681",
                 "71": "1:22.917"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -26683,6 +28802,11 @@
                 "69": "1:14.776",
                 "70": "1:14.547",
                 "71": "1:14.387"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -26756,8 +28880,14 @@
                 "56": "1:29.844",
                 "57": "1:29.891",
                 "58": "1:29.797"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Red Bull"
     },
     "Guanyu Zhou": {
         "Bahrain GP": {
@@ -26828,6 +28958,11 @@
                 "55": "1:37.132",
                 "56": "1:37.154",
                 "57": "1:38.941"
+            },
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
             }
         },
         "Saudi Arabian GP": {
@@ -26891,6 +29026,11 @@
                 "48": "1:36.051",
                 "49": "1:35.540",
                 "50": "1:34.701"
+            },
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
             }
         },
         "Australian GP": {
@@ -26962,6 +29102,11 @@
                 "56": "1:22.893",
                 "57": "1:22.744",
                 "58": "1:26.097"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -27037,6 +29182,11 @@
                 "60": "1:21.485",
                 "61": "1:21.286",
                 "62": "1:21.436"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -27054,6 +29204,11 @@
                 "4": "1:35.731",
                 "5": "1:35.883",
                 "6": "2:01.705"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -27095,6 +29250,11 @@
                 "26": "1:30.163",
                 "27": "1:29.942",
                 "28": "1:51.317"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -27170,6 +29330,11 @@
                 "62": "1:21.853",
                 "63": "1:19.606",
                 "64": "1:19.547"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -27206,6 +29371,11 @@
                 "21": "1:50.327",
                 "22": "1:50.812",
                 "23": "2:17.101"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -27291,6 +29461,11 @@
                 "68": "1:18.456",
                 "69": "1:17.634",
                 "70": "1:17.603"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -27304,6 +29479,11 @@
                 "Q1 Time": [
                     "1:40.791"
                 ]
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -27385,6 +29565,11 @@
                 "68": "1:10.415",
                 "69": "1:10.411",
                 "70": "1:10.080"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -27443,6 +29628,11 @@
                 "45": "1:40.046",
                 "46": "1:40.027",
                 "47": "1:42.395"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -27525,6 +29715,11 @@
                 "67": "1:49.359",
                 "68": "1:33.191",
                 "69": "1:27.967"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -27582,6 +29777,11 @@
                 "42": "1:54.554",
                 "43": "1:54.843",
                 "44": "1:55.387"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -27667,6 +29867,11 @@
                 "70": "1:16.253",
                 "71": "1:16.829",
                 "72": "1:16.875"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -27733,6 +29938,11 @@
                 "51": "1:32.886",
                 "52": "1:30.037",
                 "53": "2:01.697"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -27752,6 +29962,11 @@
                 "4": "2:06.289",
                 "5": "2:05.556",
                 "6": "2:06.105"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -27794,6 +30009,11 @@
                 "27": "1:50.343",
                 "28": "1:50.380",
                 "29": "1:49.847"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -27863,6 +30083,11 @@
                 "54": "1:44.102",
                 "55": "1:43.812",
                 "56": "1:43.881"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -27946,6 +30171,11 @@
                 "68": "1:23.571",
                 "69": "1:24.650",
                 "70": "1:24.969"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -28028,6 +30258,11 @@
                 "69": "1:16.086",
                 "70": "1:16.298",
                 "71": "1:16.421"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -28098,12 +30333,30 @@
                 "55": "1:30.407",
                 "56": "1:32.315",
                 "57": "1:32.551"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Alfa Romeo"
     },
     "Sebastian Vettel": {
-        "Bahrain GP": {},
-        "Saudi Arabian GP": {},
+        "Bahrain GP": {
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
+            }
+        },
+        "Saudi Arabian GP": {
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
+            }
+        },
         "Australian GP": {
             "Qualifying": {
                 "Q3 Time": [],
@@ -28135,6 +30388,11 @@
                 "20": "1:25.398",
                 "21": "1:25.505",
                 "22": "1:27.005"
+            },
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
             }
         },
         "Emilia Romagna GP": {
@@ -28213,6 +30471,11 @@
                 "61": "1:21.610",
                 "62": "1:21.717",
                 "63": "1:21.968"
+            },
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
             }
         },
         "Miami GP": {
@@ -28280,6 +30543,11 @@
                 "52": "1:34.217",
                 "53": "1:33.631",
                 "54": "1:59.970"
+            },
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
             }
         },
         "Spanish GP": {
@@ -28356,6 +30624,11 @@
                 "63": "1:28.465",
                 "64": "1:28.353",
                 "65": "1:28.200"
+            },
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
             }
         },
         "Monaco GP": {
@@ -28436,6 +30709,11 @@
                 "63": "1:18.424",
                 "64": "1:18.069",
                 "65": "1:18.230"
+            },
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
             }
         },
         "Azerbaijan GP": {
@@ -28502,6 +30780,11 @@
                 "49": "1:48.525",
                 "50": "1:48.823",
                 "51": "1:48.988"
+            },
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
             }
         },
         "Canadian GP": {
@@ -28583,6 +30866,11 @@
                 "68": "1:18.463",
                 "69": "1:18.301",
                 "70": "1:18.734"
+            },
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
             }
         },
         "British GP": {
@@ -28647,6 +30935,11 @@
                 "51": "1:33.005",
                 "52": "1:33.169",
                 "53": "1:32.471"
+            },
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
             }
         },
         "Austrian GP": {
@@ -28728,6 +31021,11 @@
                 "68": "1:10.090",
                 "69": "1:10.241",
                 "70": "1:10.000"
+            },
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
             }
         },
         "French GP": {
@@ -28794,6 +31092,11 @@
                 "51": "1:39.437",
                 "52": "1:39.218",
                 "53": "1:41.872"
+            },
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
             }
         },
         "Hungarian GP": {
@@ -28874,6 +31177,11 @@
                 "67": "1:40.562",
                 "68": "1:40.323",
                 "69": "1:29.156"
+            },
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
             }
         },
         "Belgian GP": {
@@ -28929,6 +31237,11 @@
                 "42": "1:53.084",
                 "43": "1:52.988",
                 "44": "1:52.999"
+            },
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
             }
         },
         "Dutch GP": {
@@ -29012,6 +31325,11 @@
                 "70": "1:15.935",
                 "71": "1:16.151",
                 "72": "1:16.150"
+            },
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
             }
         },
         "Italian GP": {
@@ -29033,6 +31351,11 @@
                 "8": "1:27.956",
                 "9": "1:27.851",
                 "10": "1:28.788"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Singapore GP": {
@@ -29105,6 +31428,11 @@
                 "57": "1:51.449",
                 "58": "1:50.669",
                 "59": "1:52.728"
+            },
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
         "Japanese GP": {
@@ -29149,6 +31477,11 @@
                 "27": "1:49.358",
                 "28": "1:49.822",
                 "29": "1:50.368"
+            },
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
             }
         },
         "United States GP": {
@@ -29218,6 +31551,11 @@
                 "54": "1:41.924",
                 "55": "1:41.822",
                 "56": "1:43.589"
+            },
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
             }
         },
         "Mexico City GP": {
@@ -29299,6 +31637,11 @@
                 "68": "1:23.713",
                 "69": "1:26.578",
                 "70": "1:24.032"
+            },
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
             }
         },
         "Brazilian GP": {
@@ -29383,6 +31726,11 @@
                 "69": "1:15.927",
                 "70": "1:15.852",
                 "71": "1:16.198"
+            },
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
             }
         },
         "Abu Dhabi GP": {
@@ -29456,25 +31804,121 @@
                 "56": "1:31.485",
                 "57": "1:31.227",
                 "58": "1:30.351"
+            },
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
             }
-        }
+        },
+        "Car": "Aston Martin"
     },
-    "Nyck de": {
-        "Bahrain GP": {},
-        "Saudi Arabian GP": {},
-        "Australian GP": {},
-        "Emilia Romagna GP": {},
-        "Miami GP": {},
-        "Spanish GP": {},
-        "Monaco GP": {},
-        "Azerbaijan GP": {},
-        "Canadian GP": {},
-        "British GP": {},
-        "Austrian GP": {},
-        "French GP": {},
-        "Hungarian GP": {},
-        "Belgian GP": {},
-        "Dutch GP": {},
+    "Nyck de Vries": {
+        "Bahrain GP": {
+            "Circuit": {
+                "Name": "Bahrain International Circuit",
+                "Length": "5.412",
+                "Turns": "15"
+            }
+        },
+        "Saudi Arabian GP": {
+            "Circuit": {
+                "Name": "Jeddah Corniche Circuit",
+                "Length": "6.174",
+                "Turns": "27"
+            }
+        },
+        "Australian GP": {
+            "Circuit": {
+                "Name": "Albert Park Circuit",
+                "Length": "5.278",
+                "Turns": "14"
+            }
+        },
+        "Emilia Romagna GP": {
+            "Circuit": {
+                "Name": "Imola Circuit",
+                "Length": "4.909",
+                "Turns": "19"
+            }
+        },
+        "Miami GP": {
+            "Circuit": {
+                "Name": "Miami International Autodrome",
+                "Length": "3.363 miles (5.412",
+                "Turns": "19"
+            }
+        },
+        "Spanish GP": {
+            "Circuit": {
+                "Name": "Circuit de Barcelona-Catalunya",
+                "Length": "4.675",
+                "Turns": "16"
+            }
+        },
+        "Monaco GP": {
+            "Circuit": {
+                "Name": "Circuit de Monaco",
+                "Length": "3.337",
+                "Turns": "19"
+            }
+        },
+        "Azerbaijan GP": {
+            "Circuit": {
+                "Name": "Baku City Circuit",
+                "Length": "6.003",
+                "Turns": "20"
+            }
+        },
+        "Canadian GP": {
+            "Circuit": {
+                "Name": "Circuit Gilles Villeneuve",
+                "Length": "4.361",
+                "Turns": "14"
+            }
+        },
+        "British GP": {
+            "Circuit": {
+                "Name": "Silverstone Circuit",
+                "Length": "5.891",
+                "Turns": "18"
+            }
+        },
+        "Austrian GP": {
+            "Circuit": {
+                "Name": "Red Bull Ring",
+                "Length": "4.318",
+                "Turns": "10"
+            }
+        },
+        "French GP": {
+            "Circuit": {
+                "Name": "Circuit Paul Ricard",
+                "Length": "5.842",
+                "Turns": "15"
+            }
+        },
+        "Hungarian GP": {
+            "Circuit": {
+                "Name": "Hungaroring",
+                "Length": "4.381",
+                "Turns": "14"
+            }
+        },
+        "Belgian GP": {
+            "Circuit": {
+                "Name": "Circuit de Spa-Francorchamps",
+                "Length": "7.004",
+                "Turns": "20"
+            }
+        },
+        "Dutch GP": {
+            "Circuit": {
+                "Name": "Circuit Zandvoort",
+                "Length": "4.259",
+                "Turns": "14"
+            }
+        },
         "Italian GP": {
             "Qualifying": {
                 "Q3 Time": [],
@@ -29539,13 +31983,55 @@
                 "51": "1:31.836",
                 "52": "1:29.693",
                 "53": "2:02.870"
+            },
+            "Circuit": {
+                "Name": "Monza Circuit",
+                "Length": "5.793",
+                "Turns": "11"
             }
         },
-        "Singapore GP": {},
-        "Japanese GP": {},
-        "United States GP": {},
-        "Mexico City GP": {},
-        "Brazilian GP": {},
-        "Abu Dhabi GP": {}
+        "Singapore GP": {
+            "Circuit": {
+                "Name": "Marina Bay Street Circuit",
+                "Length": "5.793",
+                "Turns": "11"
+            }
+        },
+        "Japanese GP": {
+            "Circuit": {
+                "Name": "Suzuka International Racing Course",
+                "Length": "5.807",
+                "Turns": "18"
+            }
+        },
+        "United States GP": {
+            "Circuit": {
+                "Name": "Circuit of the Americas",
+                "Length": "5.513",
+                "Turns": "20"
+            }
+        },
+        "Mexico City GP": {
+            "Circuit": {
+                "Name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Length": "4.304",
+                "Turns": "17"
+            }
+        },
+        "Brazilian GP": {
+            "Circuit": {
+                "Name": "Interlagos Circuit",
+                "Length": "4.309",
+                "Turns": "15"
+            }
+        },
+        "Abu Dhabi GP": {
+            "Circuit": {
+                "Name": "Yas Marina Circuit",
+                "Length": "5.281",
+                "Turns": "16"
+            }
+        },
+        "Car": "Williams"
     }
 }
