@@ -181,7 +181,7 @@ for row in table.find_all('tr'):
             name_circuit = name_circuit.split(",")[0]
             Circuit_Data.append({"Circuit": name_circuit, "Prix": race_prix})
 
-# Insert the Circuit into the main dictionary foreach driver based on the races name.
+# Insert the Circuit into the main dictionary for each driver based on the races name.
 for item in Circuit_Data:
     circuit = item['Circuit']
     prix = item['Prix']

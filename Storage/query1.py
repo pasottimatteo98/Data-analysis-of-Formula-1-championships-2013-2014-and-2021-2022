@@ -49,35 +49,35 @@ for document in cursor:
             for gp, qualifying_data in race_data.items():
                 if gp != "_id":
                     if "Qualifying" in qualifying_data:
-                        qualifying_times = qualifying_data["Qualifying"]
-                        q1_time = min(qualifying_times.get("Q1 Time", [])) if qualifying_times.get("Q1 Time") else None
-                        q2_time = min(qualifying_times.get("Q2 Time", [])) if qualifying_times.get("Q2 Time") else None
-                        q3_time = min(qualifying_times.get("Q3 Time", [])) if qualifying_times.get("Q3 Time") else None
-                        min_time = min(filter(None, [q1_time, q2_time, q3_time])) if any([q1_time, q2_time, q3_time]) else None
-                        min_time_seconds = convert_to_seconds(min_time)
-                        if gp in data_2013:
-                            data_2013[gp].append((driver, min_time_seconds))
-                        
-                        else:
-                            data_2013[gp] = [(driver, min_time_seconds)]
-# Cicla sui piloti e sui Gran Premi (GP) per ottenere il tempo minimo tra Q1, Q2 e Q3 delle qualifiche per l'anno 2014
+                        if qualifying_data.get("Qualifying").get("Weather Condition") == "sun":
+                            qualifying_times = qualifying_data["Qualifying"]
+                            q1_time = min(qualifying_times.get("Q1 Time", [])) if qualifying_times.get("Q1 Time") else None
+                            q2_time = min(qualifying_times.get("Q2 Time", [])) if qualifying_times.get("Q2 Time") else None
+                            q3_time = min(qualifying_times.get("Q3 Time", [])) if qualifying_times.get("Q3 Time") else None
+                            min_time = min(filter(None, [q1_time, q2_time, q3_time])) if any([q1_time, q2_time, q3_time]) else None
+                            min_time_seconds = convert_to_seconds(min_time)
+                            if gp in data_2013:
+                                data_2013[gp].append((driver, min_time_seconds))
+                            else:
+                                data_2013[gp] = [(driver, min_time_seconds)]
 for document in cursor1:
     for driver, race_data in document.items():
         if isinstance(race_data, dict):
             for gp, qualifying_data in race_data.items():
                 if gp != "_id":
                     if "Qualifying" in qualifying_data:
-                        qualifying_times = qualifying_data["Qualifying"]
-                        q1_time = min(qualifying_times.get("Q1 Time", [])) if qualifying_times.get("Q1 Time") else None
-                        q2_time = min(qualifying_times.get("Q2 Time", [])) if qualifying_times.get("Q2 Time") else None
-                        q3_time = min(qualifying_times.get("Q3 Time", [])) if qualifying_times.get("Q3 Time") else None
-                        min_time = min(filter(None, [q1_time, q2_time, q3_time])) if any([q1_time, q2_time, q3_time]) else None
-                        min_time_seconds = convert_to_seconds(min_time)
+                        if qualifying_data.get("Qualifying").get("Weather Condition") == "sun":
+                            qualifying_times = qualifying_data["Qualifying"]
+                            q1_time = min(qualifying_times.get("Q1 Time", [])) if qualifying_times.get("Q1 Time") else None
+                            q2_time = min(qualifying_times.get("Q2 Time", [])) if qualifying_times.get("Q2 Time") else None
+                            q3_time = min(qualifying_times.get("Q3 Time", [])) if qualifying_times.get("Q3 Time") else None
+                            min_time = min(filter(None, [q1_time, q2_time, q3_time])) if any([q1_time, q2_time, q3_time]) else None
+                            min_time_seconds = convert_to_seconds(min_time)
 
-                        if gp in data_2014:
-                            data_2014[gp].append((driver, min_time_seconds))
-                        else:
-                            data_2014[gp] = [(driver, min_time_seconds)]
+                            if gp in data_2014:
+                                data_2014[gp].append((driver, min_time_seconds))
+                            else:
+                                data_2014[gp] = [(driver, min_time_seconds)]
 
 # Chiudi la connessione
 client.close()
