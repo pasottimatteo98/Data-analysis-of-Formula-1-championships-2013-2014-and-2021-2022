@@ -27,7 +27,7 @@ db = client[dbname]
 collection_name = "2022"
 
 # Percorso del file JSON da caricare
-json_file_path = "../Data Acquisition/Clean Data/Final_Data_Year_2022.json"
+json_file_path = "final2022.json"
 
 # Caricamento del file JSON
 with open(json_file_path) as file:
