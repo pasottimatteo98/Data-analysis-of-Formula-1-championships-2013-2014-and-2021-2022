@@ -1,5 +1,3 @@
-#2013 QUALIFICHE
-
 import json
 
 import requests
@@ -150,5 +148,5 @@ del risultati["Abu_Dhabi GP"]
 del risultati["United_States GP"]
 
 # Salvataggio del dizionario su un file JSON
-with open("WS_weather2013_qualifiche.json", "w") as file:
+with open("../RawDataCollected/WebScraping/Weather_Qualifying/2013/Weather_Qualifying.json", "w") as file:
     json.dump(risultati, file, indent=4)
