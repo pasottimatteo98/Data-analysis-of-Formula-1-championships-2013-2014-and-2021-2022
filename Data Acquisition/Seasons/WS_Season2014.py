@@ -322,5 +322,5 @@ for driver in complete_data:
 chrome_driver.quit()
 
 # Writes the data to the JSON file.
-with open(f'../RawDataCollected/WebScraping/Season{year}.json', 'w') as outfile:
+with open(f'../RawDataCollected/WebScraping/Seasons/Season{year}.json', 'w') as outfile:
     json.dump(complete_data, outfile, indent=4)
