@@ -6,11 +6,15 @@ def run_script(script_name):
     subprocess.run(["python", script_name], check=True)
 
 if __name__ == "__main__":
-    # Web scraping scripts for seasons (executed sequentially)
+    # Web scraping scripts for seasons (executed in parallel)
     script_names_web_scraping = ["Seasons/WS_Season2013.py", "Seasons/WS_Season2014.py", "Seasons/WS_Season2021.py", "Seasons/WS_Season2022.py"]
 
-    for script in script_names_web_scraping:
-        run_script(script)
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        # Execute the web scraping scripts for seasons in parallel
+        futures_web_scraping = [executor.submit(run_script, script) for script in script_names_web_scraping]
+
+        # Wait for all web scraping scripts for seasons to complete
+        concurrent.futures.wait(futures_web_scraping)
 
     print("Web Scraping of Seasons Completed")
 
