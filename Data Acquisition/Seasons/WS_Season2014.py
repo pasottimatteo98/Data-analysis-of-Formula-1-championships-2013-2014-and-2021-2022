@@ -40,8 +40,9 @@ for d, r, s in itertools.product(drivers, races, seasons):
     except TimeoutException:
         print("Timeout durante l'attesa dell'elemento. Riprovare...")
         # Riprova l'attesa per un numero limitato di volte, ad esempio, 3 volte
-        for _ in range(3):
+        for _ in range(10):
             try:
+                chrome_driver.get(current_url)
                 WebDriverWait(chrome_driver, 60).until(EC.presence_of_element_located((By.CSS_SELECTOR, ".section")))
                 break  # Esci dal ciclo se l'elemento viene trovato
             except TimeoutException:
