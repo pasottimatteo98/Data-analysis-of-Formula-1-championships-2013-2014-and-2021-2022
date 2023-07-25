@@ -437,8 +437,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -1844,8 +1844,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -3460,8 +3460,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -4985,8 +4985,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -6650,8 +6650,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -8037,8 +8037,8 @@
         "Spanish GP": {
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -8559,8 +8559,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -10101,8 +10101,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -11757,8 +11757,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -13272,8 +13272,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -14966,8 +14966,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -16637,8 +16637,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -18236,8 +18236,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -19856,8 +19856,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -21413,8 +21413,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -22942,8 +22942,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -24521,8 +24521,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -26075,8 +26075,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -27617,8 +27617,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -29253,8 +29253,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -30627,8 +30627,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {
@@ -31852,8 +31852,8 @@
         "Spanish GP": {
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": "4.675",
-                "Turns": "16"
+                "Length": null,
+                "Turns": null
             }
         },
         "Monaco GP": {

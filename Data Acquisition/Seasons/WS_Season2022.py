@@ -284,7 +284,8 @@ for _url in circuit_url:
 
                 # Check if there is 'Length' in the match, otherwise look in the next one
                 if "Length" not in circuit_info:
-                    circuit_info = sub_string.split(date_match)[5]
+                    if len(sub_string.split(date_match)) >= 6:
+                        circuit_info = sub_string.split(date_match)[5]
                 if "Length" in circuit_info:
                     # Extract the length and clean it up.
                     length = circuit_info.split("Length")[1].split("km")[0].strip().replace("[1]", "").replace(

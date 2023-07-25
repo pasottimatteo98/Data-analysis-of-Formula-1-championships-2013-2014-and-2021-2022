@@ -1,13 +1,17 @@
 import concurrent.futures
 import subprocess
+import sys
+
 
 def run_script(script_name):
     print(f"Executing {script_name}:")
-    subprocess.run(["python", script_name], check=True)
+    subprocess.run([sys.executable, script_name], check=True)
+
 
 if __name__ == "__main__":
     # Web scraping scripts for seasons (executed in parallel)
-    script_names_web_scraping = ["Seasons/WS_Season2013.py", "Seasons/WS_Season2014.py", "Seasons/WS_Season2021.py", "Seasons/WS_Season2022.py"]
+    script_names_web_scraping = ["Seasons/WS_Season2013.py", "Seasons/WS_Season2014.py", "Seasons/WS_Season2021.py",
+                                 "Seasons/WS_Season2022.py"]
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
         # Execute the web scraping scripts for seasons in parallel
@@ -36,7 +40,7 @@ if __name__ == "__main__":
     print("Conversion of PDF Qualifying Max Speed to JSON completed")
 
     print("Merging Qualifying Max Speed - Seasons")
-    subprocess.run(["python", "Merge/QualifyingMaxSpeed_Season_Merge.py"], check=True)
+    subprocess.run([sys.executable, "Merge/QualifyingMaxSpeed_Season_Merge.py"], check=True)
     print("Merging Qualifying Max Speed - Seasons Completed")
 
     # Web scraping scripts for Weather Qualifying
@@ -83,7 +87,8 @@ if __name__ == "__main__":
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
         # Execute the merge scripts for Weather Qualifying in parallel
-        futures_merge_weather_qualifying = [executor.submit(run_script, script) for script in script_names_merge_weather_qualifying]
+        futures_merge_weather_qualifying = [executor.submit(run_script, script) for script in
+                                            script_names_merge_weather_qualifying]
 
         # Wait for all merge scripts for Weather Qualifying to complete
         concurrent.futures.wait(futures_merge_weather_qualifying)
