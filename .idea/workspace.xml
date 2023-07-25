@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="615844f6-e67c-44cd-937b-4d6e1ab709ba" name="Changes" comment="Minor Fix">
-      <change afterPath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2013.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2014.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2021.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2022.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DataManagement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataManagement.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChromeDriver/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RawDataCollected/WebScraping/Seasons/Season2021.json" beforeDir="false" afterPath="$PROJECT_DIR$/RawDataCollected/WebScraping/Seasons/Season2021.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RawDataCollected/WebScraping/Seasons/Season2022.json" beforeDir="false" afterPath="$PROJECT_DIR$/RawDataCollected/WebScraping/Seasons/Season2022.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689779046155</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Minor Fix">
+      <option name="closed" value="true" />
+      <created>1690290400207</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1690290400207</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -7,6 +7,16 @@ To install the required dependencies, use the following command:
 pip install -r requirements.txt
 ```
 
+
+## ChromeDriver
+Current Version: chromedriver 115.0.5790.102  
+Other version if needed:
+https://googlechromelabs.github.io/chrome-for-testing/#stable
+
+## Interpreter
+A virtual Python 3.9 interpreter was used, but Conda support is also enabled.
+
+
 ## main.py
 
 The main.py script is responsible for running various other scripts for web scraping and data processing. It is organized into different sections to perform specific tasks. Here's an overview of what each section does:
