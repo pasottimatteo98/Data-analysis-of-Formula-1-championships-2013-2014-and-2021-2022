@@ -24,10 +24,10 @@ except Exception as e:
 db = client[dbname]
 
 # Nome della collezione in cui inserire il documento JSON
-collection_name = "2013"
+collection_name = "2022"
 
 # Percorso del file JSON da caricare
-json_file_path = "../../Data Acquisition/Final_Data/FinalDataset2013.json"
+json_file_path = "../Data Acquisition/Final_Data/FinalDataset2022.json"
 
 # Caricamento del file JSON
 with open(json_file_path) as file:

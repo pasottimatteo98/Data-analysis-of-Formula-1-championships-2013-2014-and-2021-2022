@@ -40,7 +40,21 @@ if __name__ == "__main__":
     print("Conversion of PDF Qualifying Max Speed to JSON completed")
 
     print("Merging Qualifying Max Speed - Seasons")
-    subprocess.run([sys.executable, "Merge/QualifyingMaxSpeed_Season_Merge.py"], check=True)
+    script_names_merge_qualifying_max_speed = [
+        "Merge/QualifyingMaxSpeed_Season_Merge2013.py",
+        "Merge/QualifyingMaxSpeed_Season_Merge2014.py",
+        "Merge/QualifyingMaxSpeed_Season_Merge2021.py",
+        "Merge/QualifyingMaxSpeed_Season_Merge2022.py",
+    ]
+
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        # Esegui gli script di merge Qualifying Max Speed - Seasons in parallelo
+        futures_merge_qualifying_max_speed = [executor.submit(run_script, script) for script in
+                                              script_names_merge_qualifying_max_speed]
+
+        # Attendi il completamento di tutti gli script di merge Qualifying Max Speed - Seasons
+        concurrent.futures.wait(futures_merge_qualifying_max_speed)
+
     print("Merging Qualifying Max Speed - Seasons Completed")
 
     # Web scraping scripts for Weather Qualifying

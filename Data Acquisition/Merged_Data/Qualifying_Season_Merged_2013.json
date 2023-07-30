@@ -77,7 +77,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 320.7
+            "km/h": 308.2
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -254,7 +254,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 300.3
+            "km/h": 313.5
         },
         "Spanish GP": {
             "Qualifying": {
@@ -776,7 +776,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 315.6
+            "km/h": 297.6
         },
         "Belgian GP": {
             "Qualifying": {
@@ -841,7 +841,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 300.3
+            "km/h": 294.6
         },
         "Italian GP": {
             "Qualifying": {
@@ -915,7 +915,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 303.2
+            "km/h": 338.3
         },
         "Singapore GP": {
             "Qualifying": {
@@ -1147,7 +1147,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 318.5
+            "km/h": 299.5
         },
         "Indian GP": {
             "Qualifying": {
@@ -1228,7 +1228,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 338.3
+            "km/h": 315.6
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -1471,7 +1471,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 308.6
+            "km/h": 292.9
         },
         "Car": "Ferrari"
     },
@@ -1548,7 +1548,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 318.3
+            "km/h": 266.3
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -1765,7 +1765,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 299.0
+            "km/h": 305.6
         },
         "Spanish GP": {
             "Qualifying": {
@@ -2194,7 +2194,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 312.1
+            "km/h": 294.1
         },
         "Belgian GP": {
             "Qualifying": {
@@ -2256,7 +2256,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 299.0
+            "km/h": 288.3
         },
         "Italian GP": {
             "Qualifying": {
@@ -2325,7 +2325,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 301.4
+            "km/h": 338.6
         },
         "Singapore GP": {
             "Qualifying": {
@@ -2489,7 +2489,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 313.6
+            "km/h": 296.7
         },
         "Indian GP": {
             "Qualifying": {
@@ -2564,7 +2564,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 338.6
+            "km/h": 312.1
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -2792,7 +2792,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 310.2
+            "km/h": 263.6
         },
         "Car": "Marussia"
     },
@@ -2871,7 +2871,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 318.2
+            "km/h": 299.3
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -3093,7 +3093,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 302.0
+            "km/h": 308.9
         },
         "Spanish GP": {
             "Qualifying": {
@@ -3568,7 +3568,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 313.4
+            "km/h": 299.0
         },
         "Belgian GP": {
             "Qualifying": {
@@ -3629,7 +3629,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 302.0
+            "km/h": 285.7
         },
         "Italian GP": {
             "Qualifying": {
@@ -3699,7 +3699,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 296.4
+            "km/h": 336.4
         },
         "Singapore GP": {
             "Qualifying": {
@@ -3922,7 +3922,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 310.7
+            "km/h": 300.5
         },
         "Indian GP": {
             "Qualifying": {
@@ -4000,7 +4000,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 336.4
+            "km/h": 313.4
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -4214,7 +4214,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 302.3
+            "km/h": 271.9
         },
         "Car": "Williams"
     },
@@ -4296,7 +4296,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 320.8
+            "km/h": 299.7
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -4524,7 +4524,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 301.8
+            "km/h": 306.7
         },
         "Spanish GP": {
             "Qualifying": {
@@ -5035,7 +5035,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 318.9
+            "km/h": 295.8
         },
         "Belgian GP": {
             "Qualifying": {
@@ -5100,7 +5100,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 301.8
+            "km/h": 294.5
         },
         "Italian GP": {
             "Qualifying": {
@@ -5174,7 +5174,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 302.0
+            "km/h": 331.8
         },
         "Singapore GP": {
             "Qualifying": {
@@ -5404,7 +5404,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 316.9
+            "km/h": 294.4
         },
         "Indian GP": {
             "Qualifying": {
@@ -5484,7 +5484,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 331.8
+            "km/h": 318.9
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -5723,7 +5723,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 307.5
+            "km/h": 279.7
         },
         "Car": "McLaren"
     },
@@ -5799,7 +5799,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 321.0
+            "km/h": 271.9
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -6015,7 +6015,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 299.6
+            "km/h": 305.9
         },
         "Spanish GP": {
             "Qualifying": {
@@ -6504,7 +6504,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 312.2
+            "km/h": 294.9
         },
         "Belgian GP": {
             "Qualifying": {
@@ -6565,7 +6565,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 299.6
+            "km/h": 289.4
         },
         "Italian GP": {
             "Qualifying": {
@@ -6634,7 +6634,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 300.1
+            "km/h": 338.1
         },
         "Singapore GP": {
             "Qualifying": {
@@ -6852,7 +6852,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 312.6
+            "km/h": 297.6
         },
         "Indian GP": {
             "Qualifying": {
@@ -6927,7 +6927,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 338.1
+            "km/h": 312.2
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -7154,7 +7154,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 308.8
+            "km/h": 262.0
         },
         "Car": "Marussia"
     },
@@ -7235,8 +7235,7 @@
                 "Name": "Albert Park Circuit",
                 "Length": "5.303",
                 "Turns": "16"
-            },
-            "km/h": 322.0
+            }
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -7277,8 +7276,7 @@
                 "Name": "Sepang International Circuit",
                 "Length": "5.543",
                 "Turns": "15"
-            },
-            "km/h": 306.9
+            }
         },
         "Chinese GP": {
             "Qualifying": {
@@ -7352,8 +7350,7 @@
                 "Name": "Shanghai International Circuit",
                 "Length": "5.451",
                 "Turns": "16"
-            },
-            "km/h": 317.6
+            }
         },
         "Bahrain GP": {
             "Qualifying": {
@@ -7430,8 +7427,7 @@
                 "Name": "Bahrain International Circuit",
                 "Length": "5.412",
                 "Turns": "15"
-            },
-            "km/h": 303.4
+            }
         },
         "Spanish GP": {
             "Qualifying": {
@@ -7517,8 +7513,7 @@
                 "Name": "Circuit de Catalunya",
                 "Length": "4.655",
                 "Turns": "16"
-            },
-            "km/h": 315.2
+            }
         },
         "Monaco GP": {
             "Qualifying": {
@@ -7612,8 +7607,7 @@
                 "Name": "Circuit de Monaco",
                 "Length": "3.340",
                 "Turns": "19"
-            },
-            "km/h": 280.3
+            }
         },
         "Canadian GP": {
             "Qualifying": {
@@ -7698,8 +7692,7 @@
                 "Name": "Circuit Gilles Villeneuve",
                 "Length": "4.361",
                 "Turns": "14"
-            },
-            "km/h": 322.0
+            }
         },
         "British GP": {
             "Qualifying": {
@@ -7771,8 +7764,7 @@
                 "Name": "Silverstone Circuit",
                 "Length": "5.891",
                 "Turns": "18"
-            },
-            "km/h": 307.3
+            }
         },
         "German GP": {
             "Qualifying": {
@@ -7850,8 +7842,7 @@
                 "Name": "N\u00fcrburgring",
                 "Length": "5.891",
                 "Turns": "18"
-            },
-            "km/h": 303.4
+            }
         },
         "Hungarian GP": {
             "Qualifying": {
@@ -7933,8 +7924,7 @@
                 "Name": "Hungaroring",
                 "Length": "4.381",
                 "Turns": "14"
-            },
-            "km/h": 319.0
+            }
         },
         "Belgian GP": {
             "Qualifying": {
@@ -7980,8 +7970,7 @@
                 "Name": "Circuit de Spa-Francorchamps",
                 "Length": "7.004",
                 "Turns": "20"
-            },
-            "km/h": 303.4
+            }
         },
         "Italian GP": {
             "Qualifying": {
@@ -7997,8 +7986,7 @@
                 "Name": "Autodromo Nazionale Monza",
                 "Length": "5.793",
                 "Turns": "11"
-            },
-            "km/h": 306.9
+            }
         },
         "Singapore GP": {
             "Qualifying": {
@@ -8068,8 +8056,7 @@
                 "Name": "Marina Bay Street Circuit",
                 "Length": "5.793",
                 "Turns": "11"
-            },
-            "km/h": 291.3
+            }
         },
         "Korean GP": {
             "Qualifying": {
@@ -8111,8 +8098,7 @@
                 "Name": "Korea International Circuit",
                 "Length": "5.615",
                 "Turns": "18"
-            },
-            "km/h": 317.0
+            }
         },
         "Japanese GP": {
             "Qualifying": {
@@ -8183,8 +8169,7 @@
                 "Name": "Suzuka Circuit",
                 "Length": "5.807",
                 "Turns": "18"
-            },
-            "km/h": 315.2
+            }
         },
         "Indian GP": {
             "Qualifying": {
@@ -8262,8 +8247,7 @@
                 "Name": "Buddh International Circuit",
                 "Length": "5.125",
                 "Turns": "16"
-            },
-            "km/h": 326.8
+            }
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -8336,8 +8320,7 @@
                 "Name": "Yas Marina Circuit",
                 "Length": "5.554",
                 "Turns": "21"
-            },
-            "km/h": 316.7
+            }
         },
         "United States GP": {
             "Qualifying": {
@@ -8411,8 +8394,7 @@
                 "Name": "Circuit of the Americas",
                 "Length": "5.513",
                 "Turns": "20"
-            },
-            "km/h": 314.3
+            }
         },
         "Brazilian GP": {
             "Qualifying": {
@@ -8500,8 +8482,7 @@
                 "Name": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
                 "Length": "4.309",
                 "Turns": "15"
-            },
-            "km/h": 307.3
+            }
         },
         "Car": "Force India"
     },
@@ -8583,7 +8564,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 321.4
+            "km/h": 307.1
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -8811,7 +8792,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 297.6
+            "km/h": 308.4
         },
         "Spanish GP": {
             "Qualifying": {
@@ -9252,7 +9233,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 310.8
+            "km/h": 294.2
         },
         "Belgian GP": {
             "Qualifying": {
@@ -9317,7 +9298,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 297.6
+            "km/h": 290.9
         },
         "Italian GP": {
             "Qualifying": {
@@ -9389,7 +9370,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 306.9
+            "km/h": 337.1
         },
         "Singapore GP": {
             "Qualifying": {
@@ -9598,7 +9579,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 313.6
+            "km/h": 295.4
         },
         "Indian GP": {
             "Qualifying": {
@@ -9675,7 +9656,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 337.1
+            "km/h": 310.8
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -9851,7 +9832,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 303.9
+            "km/h": 292.2
         },
         "Car": "Lotus F1"
     },
@@ -9928,7 +9909,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 320.1
+            "km/h": 276.5
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -10096,7 +10077,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 297.9
+            "km/h": 312.2
         },
         "Spanish GP": {
             "Qualifying": {
@@ -10550,7 +10531,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 319.9
+            "km/h": 295.0
         },
         "Belgian GP": {
             "Qualifying": {
@@ -10611,7 +10592,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 297.9
+            "km/h": 291.7
         },
         "Italian GP": {
             "Qualifying": {
@@ -10681,7 +10662,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 300.4
+            "km/h": 340.0
         },
         "Singapore GP": {
             "Qualifying": {
@@ -10909,7 +10890,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 306.9
+            "km/h": 296.4
         },
         "Indian GP": {
             "Qualifying": {
@@ -10987,7 +10968,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 340.0
+            "km/h": 319.9
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -11223,7 +11204,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 305.2
+            "km/h": 263.9
         },
         "Car": "Sauber"
     },
@@ -11305,7 +11286,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 321.0
+            "km/h": 271.9
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -11537,7 +11518,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 299.6
+            "km/h": 305.9
         },
         "Spanish GP": {
             "Qualifying": {
@@ -12058,7 +12039,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 312.2
+            "km/h": 294.9
         },
         "Belgian GP": {
             "Qualifying": {
@@ -12123,7 +12104,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 299.6
+            "km/h": 289.4
         },
         "Italian GP": {
             "Qualifying": {
@@ -12195,7 +12176,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 300.1
+            "km/h": 338.1
         },
         "Singapore GP": {
             "Qualifying": {
@@ -12381,7 +12362,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 312.6
+            "km/h": 297.6
         },
         "Indian GP": {
             "Qualifying": {
@@ -12462,7 +12443,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 338.1
+            "km/h": 312.2
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -12707,7 +12688,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 308.8
+            "km/h": 262.0
         },
         "Car": "Mercedes"
     },
@@ -12727,7 +12708,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 321.4
+            "km/h": 290.7
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -12953,7 +12934,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 298.8
+            "km/h": 310.2
         },
         "Spanish GP": {
             "Qualifying": {
@@ -13436,7 +13417,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 321.0
+            "km/h": 295.4
         },
         "Belgian GP": {
             "Qualifying": {
@@ -13499,7 +13480,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 298.8
+            "km/h": 294.9
         },
         "Italian GP": {
             "Qualifying": {
@@ -13573,7 +13554,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 301.9
+            "km/h": 335.7
         },
         "Singapore GP": {
             "Qualifying": {
@@ -13803,7 +13784,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 306.1
+            "km/h": 297.0
         },
         "Indian GP": {
             "Qualifying": {
@@ -13878,7 +13859,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 335.7
+            "km/h": 321.0
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -14122,7 +14103,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 305.5
+            "km/h": 284.2
         },
         "Car": "Sauber"
     },
@@ -14166,7 +14147,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 317.8
+            "km/h": 272.8
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -14377,7 +14358,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 299.2
+            "km/h": 308.8
         },
         "Spanish GP": {
             "Qualifying": {
@@ -14845,7 +14826,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 313.4
+            "km/h": 298.5
         },
         "Belgian GP": {
             "Qualifying": {
@@ -14905,7 +14886,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 299.2
+            "km/h": 286.8
         },
         "Italian GP": {
             "Qualifying": {
@@ -14977,7 +14958,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 298.0
+            "km/h": 336.8
         },
         "Singapore GP": {
             "Qualifying": {
@@ -15198,7 +15179,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 312.2
+            "km/h": 299.5
         },
         "Indian GP": {
             "Qualifying": {
@@ -15275,7 +15256,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 336.8
+            "km/h": 313.4
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -15508,7 +15489,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 302.1
+            "km/h": 285.6
         },
         "Car": "Williams"
     },
@@ -15590,7 +15571,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 320.6
+            "km/h": 309.7
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -15822,7 +15803,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 302.1
+            "km/h": 312.7
         },
         "Spanish GP": {
             "Qualifying": {
@@ -16225,7 +16206,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 315.6
+            "km/h": 297.4
         },
         "Belgian GP": {
             "Qualifying": {
@@ -16290,7 +16271,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 302.1
+            "km/h": 291.5
         },
         "Italian GP": {
             "Qualifying": {
@@ -16364,7 +16345,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 302.6
+            "km/h": 338.4
         },
         "Singapore GP": {
             "Qualifying": {
@@ -16596,7 +16577,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 314.1
+            "km/h": 299.3
         },
         "Indian GP": {
             "Qualifying": {
@@ -16677,7 +16658,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 338.4
+            "km/h": 315.6
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -16920,7 +16901,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 311.8
+            "km/h": 283.9
         },
         "Car": "Ferrari"
     },
@@ -17000,7 +16981,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 322.2
+            "km/h": 293.2
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -17228,7 +17209,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 302.6
+            "km/h": 306.3
         },
         "Spanish GP": {
             "Qualifying": {
@@ -17730,7 +17711,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 318.6
+            "km/h": 296.9
         },
         "Belgian GP": {
             "Qualifying": {
@@ -17793,7 +17774,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 302.6
+            "km/h": 291.1
         },
         "Italian GP": {
             "Qualifying": {
@@ -17867,7 +17848,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 303.0
+            "km/h": 331.6
         },
         "Singapore GP": {
             "Qualifying": {
@@ -18092,7 +18073,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 317.0
+            "km/h": 294.7
         },
         "Indian GP": {
             "Qualifying": {
@@ -18173,7 +18154,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 331.6
+            "km/h": 318.6
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -18416,7 +18397,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 307.4
+            "km/h": 284.5
         },
         "Car": "McLaren"
     },
@@ -18492,7 +18473,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 315.4
+            "km/h": 271.2
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -18709,7 +18690,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 300.1
+            "km/h": 304.1
         },
         "Spanish GP": {
             "Qualifying": {
@@ -19129,7 +19110,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 311.5
+            "km/h": 298.1
         },
         "Belgian GP": {
             "Qualifying": {
@@ -19154,7 +19135,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 300.1
+            "km/h": 273.4
         },
         "Italian GP": {
             "Qualifying": {
@@ -19223,7 +19204,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 301.9
+            "km/h": 329.8
         },
         "Singapore GP": {
             "Qualifying": {
@@ -19441,7 +19422,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 310.7
+            "km/h": 297.6
         },
         "Indian GP": {
             "Qualifying": {
@@ -19493,7 +19474,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 329.8
+            "km/h": 311.5
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -19711,7 +19692,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 301.9
+            "km/h": 272.2
         },
         "Car": "Caterham"
     },
@@ -19793,7 +19774,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 322.0
+            "km/h": 307.9
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -20025,7 +20006,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 294.1
+            "km/h": 308.6
         },
         "Spanish GP": {
             "Qualifying": {
@@ -20546,7 +20527,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 314.4
+            "km/h": 294.8
         },
         "Belgian GP": {
             "Qualifying": {
@@ -20592,7 +20573,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 294.1
+            "km/h": 294.5
         },
         "Italian GP": {
             "Qualifying": {
@@ -20664,7 +20645,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 306.5
+            "km/h": 337.8
         },
         "Singapore GP": {
             "Qualifying": {
@@ -20894,7 +20875,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 313.1
+            "km/h": 294.7
         },
         "Indian GP": {
             "Qualifying": {
@@ -20975,7 +20956,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 337.8
+            "km/h": 314.4
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -21008,8 +20989,7 @@
                 "Name": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
                 "Length": "4.309",
                 "Turns": "15"
-            },
-            "km/h": 303.9
+            }
         },
         "Car": "Lotus F1"
     },
@@ -21070,7 +21050,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 322.0
+            "km/h": 261.4
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -21292,7 +21272,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 299.2
+            "km/h": 309.2
         },
         "Spanish GP": {
             "Qualifying": {
@@ -21789,7 +21769,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 315.5
+            "km/h": 295.2
         },
         "Belgian GP": {
             "Qualifying": {
@@ -21850,7 +21830,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 299.2
+            "km/h": 278.0
         },
         "Italian GP": {
             "Qualifying": {
@@ -21924,7 +21904,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 302.8
+            "km/h": 340.4
         },
         "Singapore GP": {
             "Qualifying": {
@@ -22110,7 +22090,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 317.3
+            "km/h": 301.8
         },
         "Indian GP": {
             "Qualifying": {
@@ -22189,7 +22169,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 340.4
+            "km/h": 315.5
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -22430,7 +22410,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 306.4
+            "km/h": 264.8
         },
         "Car": "Toro Rosso"
     },
@@ -22480,7 +22460,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 320.9
+            "km/h": 306.6
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -22677,7 +22657,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 299.0
+            "km/h": 312.0
         },
         "Spanish GP": {
             "Qualifying": {
@@ -23191,7 +23171,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 312.6
+            "km/h": 299.0
         },
         "Belgian GP": {
             "Qualifying": {
@@ -23256,7 +23236,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 299.0
+            "km/h": 293.0
         },
         "Italian GP": {
             "Qualifying": {
@@ -23330,7 +23310,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 301.1
+            "km/h": 337.8
         },
         "Singapore GP": {
             "Qualifying": {
@@ -23562,7 +23542,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 312.1
+            "km/h": 293.9
         },
         "Indian GP": {
             "Qualifying": {
@@ -23643,7 +23623,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 337.8
+            "km/h": 312.6
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -23886,7 +23866,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 308.8
+            "km/h": 286.3
         },
         "Car": "Mercedes"
     },
@@ -23966,7 +23946,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 322.0
+            "km/h": 290.5
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -24117,7 +24097,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 301.3
+            "km/h": 314.1
         },
         "Spanish GP": {
             "Qualifying": {
@@ -24581,7 +24561,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 317.0
+            "km/h": 298.5
         },
         "Belgian GP": {
             "Qualifying": {
@@ -24644,7 +24624,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 301.3
+            "km/h": 297.1
         },
         "Italian GP": {
             "Qualifying": {
@@ -24715,7 +24695,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 307.1
+            "km/h": 327.2
         },
         "Singapore GP": {
             "Qualifying": {
@@ -24934,7 +24914,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 312.2
+            "km/h": 298.2
         },
         "Indian GP": {
             "Qualifying": {
@@ -25013,7 +24993,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 327.2
+            "km/h": 317.0
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -25189,7 +25169,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 307.5
+            "km/h": 296.7
         },
         "Car": "Force India"
     },
@@ -25264,8 +25244,7 @@
                 "Name": "Albert Park Circuit",
                 "Length": "5.303",
                 "Turns": "16"
-            },
-            "km/h": 315.2
+            }
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -25336,8 +25315,7 @@
                 "Name": "Sepang International Circuit",
                 "Length": "5.543",
                 "Turns": "15"
-            },
-            "km/h": 300.3
+            }
         },
         "Chinese GP": {
             "Qualifying": {
@@ -25408,8 +25386,7 @@
                 "Name": "Shanghai International Circuit",
                 "Length": "5.451",
                 "Turns": "16"
-            },
-            "km/h": 314.1
+            }
         },
         "Bahrain GP": {
             "Qualifying": {
@@ -25480,8 +25457,7 @@
                 "Name": "Bahrain International Circuit",
                 "Length": "5.412",
                 "Turns": "15"
-            },
-            "km/h": 300.1
+            }
         },
         "Spanish GP": {
             "Qualifying": {
@@ -25518,8 +25494,7 @@
                 "Name": "Circuit de Catalunya",
                 "Length": "4.655",
                 "Turns": "16"
-            },
-            "km/h": 310.8
+            }
         },
         "Monaco GP": {
             "Qualifying": {
@@ -25615,8 +25590,7 @@
                 "Name": "Circuit de Monaco",
                 "Length": "3.340",
                 "Turns": "19"
-            },
-            "km/h": 278.4
+            }
         },
         "Canadian GP": {
             "Qualifying": {
@@ -25675,8 +25649,7 @@
                 "Name": "Circuit Gilles Villeneuve",
                 "Length": "4.361",
                 "Turns": "14"
-            },
-            "km/h": 315.2
+            }
         },
         "British GP": {
             "Qualifying": {
@@ -25744,8 +25717,7 @@
                 "Name": "Silverstone Circuit",
                 "Length": "5.891",
                 "Turns": "18"
-            },
-            "km/h": 299.9
+            }
         },
         "German GP": {
             "Qualifying": {
@@ -25820,8 +25792,7 @@
                 "Name": "N\u00fcrburgring",
                 "Length": "5.891",
                 "Turns": "18"
-            },
-            "km/h": 300.1
+            }
         },
         "Hungarian GP": {
             "Qualifying": {
@@ -25905,8 +25876,7 @@
                 "Name": "Hungaroring",
                 "Length": "4.381",
                 "Turns": "14"
-            },
-            "km/h": 311.4
+            }
         },
         "Belgian GP": {
             "Qualifying": {
@@ -25967,8 +25937,7 @@
                 "Name": "Circuit de Spa-Francorchamps",
                 "Length": "7.004",
                 "Turns": "20"
-            },
-            "km/h": 300.1
+            }
         },
         "Italian GP": {
             "Qualifying": {
@@ -26036,8 +26005,7 @@
                 "Name": "Autodromo Nazionale Monza",
                 "Length": "5.793",
                 "Turns": "11"
-            },
-            "km/h": 300.3
+            }
         },
         "Singapore GP": {
             "Qualifying": {
@@ -26113,8 +26081,7 @@
                 "Name": "Marina Bay Street Circuit",
                 "Length": "5.793",
                 "Turns": "11"
-            },
-            "km/h": 289.2
+            }
         },
         "Korean GP": {
             "Qualifying": {
@@ -26185,8 +26152,7 @@
                 "Name": "Korea International Circuit",
                 "Length": "5.615",
                 "Turns": "18"
-            },
-            "km/h": 310.7
+            }
         },
         "Japanese GP": {
             "Qualifying": {
@@ -26200,8 +26166,7 @@
                 "Name": "Suzuka Circuit",
                 "Length": "5.807",
                 "Turns": "18"
-            },
-            "km/h": 310.8
+            }
         },
         "Indian GP": {
             "Qualifying": {
@@ -26218,8 +26183,7 @@
                 "Name": "Buddh International Circuit",
                 "Length": "5.125",
                 "Turns": "16"
-            },
-            "km/h": 330.1
+            }
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -26289,8 +26253,7 @@
                 "Name": "Yas Marina Circuit",
                 "Length": "5.554",
                 "Turns": "21"
-            },
-            "km/h": 311.5
+            }
         },
         "United States GP": {
             "Qualifying": {
@@ -26361,8 +26324,7 @@
                 "Name": "Circuit of the Americas",
                 "Length": "5.513",
                 "Turns": "20"
-            },
-            "km/h": 306.9
+            }
         },
         "Brazilian GP": {
             "Qualifying": {
@@ -26447,8 +26409,7 @@
                 "Name": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
                 "Length": "4.309",
                 "Turns": "15"
-            },
-            "km/h": 299.9
+            }
         },
         "Car": "Caterham"
     },
@@ -26528,7 +26489,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 322.0
+            "km/h": 270.7
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -26711,7 +26672,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 300.0
+            "km/h": 309.5
         },
         "Spanish GP": {
             "Qualifying": {
@@ -27154,7 +27115,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 318.9
+            "km/h": 292.9
         },
         "Belgian GP": {
             "Qualifying": {
@@ -27215,7 +27176,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 300.0
+            "km/h": 270.7
         },
         "Italian GP": {
             "Qualifying": {
@@ -27250,7 +27211,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 302.5
+            "km/h": 339.8
         },
         "Singapore GP": {
             "Qualifying": {
@@ -27471,7 +27432,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 316.3
+            "km/h": 299.5
         },
         "Indian GP": {
             "Qualifying": {
@@ -27549,7 +27510,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 339.8
+            "km/h": 318.9
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -27788,7 +27749,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 306.9
+            "km/h": 275.2
         },
         "Car": "Toro Rosso"
     },
@@ -27870,7 +27831,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 316.1
+            "km/h": 307.6
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -28100,7 +28061,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 298.7
+            "km/h": 305.8
         },
         "Spanish GP": {
             "Qualifying": {
@@ -28611,7 +28572,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 315.9
+            "km/h": 293.5
         },
         "Belgian GP": {
             "Qualifying": {
@@ -28676,7 +28637,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 298.7
+            "km/h": 299.5
         },
         "Italian GP": {
             "Qualifying": {
@@ -28750,7 +28711,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 298.5
+            "km/h": 336.1
         },
         "Singapore GP": {
             "Qualifying": {
@@ -28982,7 +28943,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 306.2
+            "km/h": 299.2
         },
         "Indian GP": {
             "Qualifying": {
@@ -29063,7 +29024,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 336.1
+            "km/h": 315.9
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -29308,7 +29269,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 303.1
+            "km/h": 276.4
         },
         "Car": "Red Bull"
     },
@@ -29390,7 +29351,7 @@
                 "Length": "5.303",
                 "Turns": "16"
             },
-            "km/h": 316.7
+            "km/h": 304.9
         },
         "Malaysian GP": {
             "Qualifying": {
@@ -29579,7 +29540,7 @@
                 "Length": "5.412",
                 "Turns": "15"
             },
-            "km/h": 297.7
+            "km/h": 305.7
         },
         "Spanish GP": {
             "Qualifying": {
@@ -30100,7 +30061,7 @@
                 "Length": "4.381",
                 "Turns": "14"
             },
-            "km/h": 316.1
+            "km/h": 293.8
         },
         "Belgian GP": {
             "Qualifying": {
@@ -30165,7 +30126,7 @@
                 "Length": "7.004",
                 "Turns": "20"
             },
-            "km/h": 297.7
+            "km/h": 302.7
         },
         "Italian GP": {
             "Qualifying": {
@@ -30239,7 +30200,7 @@
                 "Length": "5.793",
                 "Turns": "11"
             },
-            "km/h": 299.6
+            "km/h": 336.3
         },
         "Singapore GP": {
             "Qualifying": {
@@ -30451,7 +30412,7 @@
                 "Length": "5.807",
                 "Turns": "18"
             },
-            "km/h": 305.7
+            "km/h": 302.3
         },
         "Indian GP": {
             "Qualifying": {
@@ -30511,7 +30472,7 @@
                 "Length": "5.125",
                 "Turns": "16"
             },
-            "km/h": 336.3
+            "km/h": 316.1
         },
         "Abu Dhabi GP": {
             "Qualifying": {
@@ -30756,7 +30717,7 @@
                 "Length": "4.309",
                 "Turns": "15"
             },
-            "km/h": 303.1
+            "km/h": 281.3
         },
         "Car": "Red Bull"
     },
@@ -30787,8 +30748,7 @@
                 "Name": "Bahrain International Circuit",
                 "Length": "5.412",
                 "Turns": "15"
-            },
-            "km/h": 282.2
+            }
         },
         "Spanish GP": {
             "Circuit": {
@@ -30837,8 +30797,7 @@
                 "Name": "Circuit de Spa-Francorchamps",
                 "Length": "7.004",
                 "Turns": "20"
-            },
-            "km/h": 282.2
+            }
         },
         "Italian GP": {
             "Circuit": {
