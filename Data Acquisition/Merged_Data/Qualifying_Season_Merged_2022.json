@@ -32406,7 +32406,8 @@
                 "Name": "Monza Circuit",
                 "Length": "5.793",
                 "Turns": "11"
-            }
+            },
+            "km/h": "346.9"
         },
         "Singapore GP": {
             "Circuit": {

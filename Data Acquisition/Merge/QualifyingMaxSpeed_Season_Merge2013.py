@@ -6,7 +6,8 @@ from fuzzywuzzy import process
 # Function to preprocess driver names to extract only the last word
 def preprocess_driver_name(name):
     # Assuming the name is in the format "Prima lettera nome.Cognome"
-    return name.split()[-1]
+    return " ".join(name.split()[1:])
+
 
 # Path to the folder with JSON files
 folder_path = "../RawDataCollected/WebScraping/Qualifying_Max_Speed/2013"

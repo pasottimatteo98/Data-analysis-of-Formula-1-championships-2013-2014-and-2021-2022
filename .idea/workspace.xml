@@ -4,22 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="615844f6-e67c-44cd-937b-4d6e1ab709ba" name="Changes" comment="README.md updated">
-      <change afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2022.py" afterDir="false" />
+    <list default="true" id="615844f6-e67c-44cd-937b-4d6e1ab709ba" name="Changes" comment="Bug Fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2013.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2014.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2021.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2022.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2013.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2013.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2014.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2014.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2021.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2021.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2022.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2022.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2022.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,17 +39,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TODO_SCOPE": "All Places",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/matte/PycharmProjects/DataManagement/Data Acquisition/Merge",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/matte/PycharmProjects/DataManagement/Data Acquisition/Merge&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\matte\PycharmProjects\DataManagement\Data Acquisition\Merge" />
@@ -247,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690290922036</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Bug Fix">
+      <option name="closed" value="true" />
+      <created>1690720392102</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1690720392102</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,7 +271,8 @@
     <MESSAGE value="Spostati e ordinati file in data Acquisition, commenti in inglese, aggiunto README.md e requirements.txt file. Main.py per un unica esecuzione" />
     <MESSAGE value="Minor Fix" />
     <MESSAGE value="README.md updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md updated" />
+    <MESSAGE value="Bug Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug Fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
