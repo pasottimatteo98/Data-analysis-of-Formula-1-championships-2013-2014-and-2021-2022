@@ -243,9 +243,12 @@ for _url in circuit_url:
         indice = table.getText().find("Current layout with Mistral chicane")
     else:
         if "Grand Prix Circuit with Chicane" in table.getText():
-            indice = table.getText().find("Grand Prix Circuit with Chicane")
+            indice = table.getText().find("\bGrand Prix Circuit with Chicane\b")
         else:
-            indice = table.getText().find("Grand Prix Circuit")
+            if "Grand Prix Circuit without Chicane" in table.getText():
+                indice = table.getText().find("\bGrand Prix Circuit without Chicane\b")
+            else:
+                indice = table.getText().find("Grand Prix Circuit")
     if indice != -1:
         sub_string = table.getText()[indice:].replace("(5th Variation)", "") \
             .replace("(4th Variation)", "") \
@@ -270,7 +273,20 @@ for _url in circuit_url:
     date_matches += re.findall(r"Current layout with Mistral chicane \((.*?)\)", sub_string)
     date_matches += re.findall(r"Grand Prix Circuit with Chicane \((.*?)\)", sub_string)
 
+    # Aggiungiamo una variabile per tenere traccia delle condizioni soddisfatte
+    condizioni_soddisfatte = False
 
+    for date_match in date_matches:
+        if not "–" in date_match and int(date_match) == year_of_search:
+            condizioni_soddisfatte = True
+        elif "–" in date_match:
+            anno_inizio, anno_fine = date_match.split("–")
+            if not (int(anno_inizio) <= year_of_search <= int(anno_fine)):
+                condizioni_soddisfatte = True
+
+    # Aggiungiamo i risultati di re.findall solo se nessun elemento rispetta le condizioni
+    if not condizioni_soddisfatte:
+        date_matches += re.findall(r"Grand Prix Circuit \((20\d{2}(?:–\d{4})?)\)", sub_string)
 
 
     # For each date range or single date found, check if it matches our reference year or if it is within the range.
@@ -286,11 +302,14 @@ for _url in circuit_url:
                 if "Length" not in circuit_info:
                     if len(sub_string.split(date_match)) >= 6:
                         circuit_info = sub_string.split(date_match)[5]
+                    if length == "3.363 miles (5.412":
+                        length = length.replace("3.365 miles (", "")
                 if "Length" in circuit_info:
                     # Extract the length and clean it up.
                     length = circuit_info.split("Length")[1].split("km")[0].strip().replace("[1]", "").replace(
-                        "[2]", "").replace("[3]", "").replace("[4]", "").replace("[5]", "").replace("3.426 miles (", "")
-
+                        "[2]", "").replace("[3]", "").replace("[4]", "").replace("[5]", "").replace("3.426 miles (", "").replace("3.363 miles (", "")
+                    if length == "3.363 miles (5.412":
+                        length = length.replace("3.363 miles ( (", "")
                     # Extract the turns and clean it up.
                     turns_match = re.search(r'Turns(\d+)', circuit_info)
                     curve = turns_match.group(1)
@@ -306,11 +325,17 @@ for _url in circuit_url:
                 # Check if there is 'Length' in the match, otherwise look in the next one
                 if "Length" not in circuit_info:
                     circuit_info = sub_string.split(date_match)[2]
+                    length = circuit_info.split("Length")[1].split("km")[0].strip().replace("[1]", "").replace(
+                        "[2]", "").replace("[3]", "").replace("[4]", "").replace("[5]", "").replace("3.426 miles (",
+                                                                                                    "").replace(
+                        "3.363 miles (", "").replace("3.363 miles (5.412", "5.412").replace("3.363 miles (", "")
+
                 if "Length" in circuit_info:
                     # Extract the length and clean it up.
                     length = circuit_info.split("Length")[1].split("km")[0].strip().replace("[1]", "").replace(
-                        "[2]", "").replace("[3]", "").replace("[4]", "").replace("[5]", "").replace("3.426 miles (", "").replace("3.363 miles (", "")
-
+                        "[2]", "").replace("[3]", "").replace("[4]", "").replace("[5]", "").replace("3.426 miles (", "").replace("3.363 miles (", "").replace("3.363 miles (5.412", "5.412")
+                    if length == "3.363 miles (5.412":
+                        length = length.replace("3.363 miles (", "")
                     # Extract the turns and clean it up.
                     turns_match = re.search(r'Turns(\d+)', circuit_info)
                     curve = turns_match.group(1)

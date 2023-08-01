@@ -243,9 +243,12 @@ for _url in circuit_url:
         indice = table.getText().find("Current layout with Mistral chicane")
     else:
         if "Grand Prix Circuit with Chicane" in table.getText():
-            indice = table.getText().find("Grand Prix Circuit with Chicane")
+            indice = table.getText().find("\bGrand Prix Circuit with Chicane\b")
         else:
-            indice = table.getText().find("Grand Prix Circuit")
+            if "Grand Prix Circuit without Chicane" in table.getText():
+                indice = table.getText().find("\bGrand Prix Circuit without Chicane\b")
+            else:
+                indice = table.getText().find("Grand Prix Circuit")
     if indice != -1:
         sub_string = table.getText()[indice:].replace("(5th Variation)", "") \
             .replace("(4th Variation)", "") \
@@ -270,7 +273,20 @@ for _url in circuit_url:
     date_matches += re.findall(r"Current layout with Mistral chicane \((.*?)\)", sub_string)
     date_matches += re.findall(r"Grand Prix Circuit with Chicane \((.*?)\)", sub_string)
 
+    # Aggiungiamo una variabile per tenere traccia delle condizioni soddisfatte
+    condizioni_soddisfatte = False
 
+    for date_match in date_matches:
+        if not "–" in date_match and int(date_match) == year_of_search:
+            condizioni_soddisfatte = True
+        elif "–" in date_match:
+            anno_inizio, anno_fine = date_match.split("–")
+            if not (int(anno_inizio) <= year_of_search <= int(anno_fine)):
+                condizioni_soddisfatte = True
+
+    # Aggiungiamo i risultati di re.findall solo se nessun elemento rispetta le condizioni
+    if not condizioni_soddisfatte:
+        date_matches += re.findall(r"Grand Prix Circuit \((20\d{2}(?:–\d{4})?)\)", sub_string)
 
 
     # For each date range or single date found, check if it matches our reference year or if it is within the range.

@@ -310,8 +310,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "317.0"
         },
@@ -1585,8 +1585,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -2048,8 +2048,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "315.3"
         },
@@ -3221,8 +3221,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -3716,8 +3716,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "312.5"
         },
@@ -4853,8 +4853,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -5340,8 +5340,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "323.1"
         },
@@ -6595,8 +6595,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -7071,8 +7071,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "317.2"
         },
@@ -8350,8 +8350,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -8763,8 +8763,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "318.1"
         },
@@ -9983,8 +9983,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -10469,8 +10469,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "318.3"
         },
@@ -11607,8 +11607,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -12028,8 +12028,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "324.2"
         },
@@ -13139,8 +13139,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -13534,8 +13534,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "316.6"
         },
@@ -14763,8 +14763,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -15259,8 +15259,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "318.8"
         },
@@ -16393,8 +16393,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -16893,8 +16893,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "314.5"
         },
@@ -18118,8 +18118,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -18503,8 +18503,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "324.2"
         },
@@ -19596,8 +19596,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -20054,8 +20054,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "317.7"
         },
@@ -21316,8 +21316,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -21770,8 +21770,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "316.6"
         },
@@ -22995,8 +22995,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -23420,8 +23420,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "317.9"
         },
@@ -24710,8 +24710,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -25187,8 +25187,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "324.0"
         },
@@ -26306,8 +26306,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -26746,8 +26746,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "317.9"
         },
@@ -27886,8 +27886,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -28307,8 +28307,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "310.6"
         },
@@ -29419,8 +29419,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -29920,8 +29920,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "313.0"
         },
@@ -31130,8 +31130,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -31619,8 +31619,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             },
             "km/h": "319.9"
         },
@@ -32881,8 +32881,8 @@
             },
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {
@@ -33056,8 +33056,8 @@
         "Spanish GP": {
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "4.653",
+                "Turns": "15"
             }
         },
         "Monaco GP": {
@@ -33315,8 +33315,8 @@
         "Qatar GP": {
             "Circuit": {
                 "Name": "Losail International Circuit",
-                "Length": null,
-                "Turns": null
+                "Length": "5.380",
+                "Turns": "16"
             }
         },
         "Saudi Arabian GP": {

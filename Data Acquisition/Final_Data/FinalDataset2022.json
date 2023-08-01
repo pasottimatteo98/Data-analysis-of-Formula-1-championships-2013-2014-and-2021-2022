@@ -371,7 +371,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "330.2"
@@ -454,8 +454,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "333.4"
         },
@@ -1837,7 +1837,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "327.4"
@@ -1921,8 +1921,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "327.6"
         },
@@ -3513,7 +3513,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "326.0"
@@ -3602,8 +3602,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "321.7"
         },
@@ -5106,7 +5106,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "327.9"
@@ -5192,8 +5192,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "322.5"
         },
@@ -6833,7 +6833,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "327.0"
@@ -6922,8 +6922,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "337.7"
         },
@@ -8355,15 +8355,15 @@
         "Miami GP": {
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             }
         },
         "Spanish GP": {
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             }
         },
         "Monaco GP": {
@@ -8818,7 +8818,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "324.3"
@@ -8901,8 +8901,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "324.3"
         },
@@ -10458,7 +10458,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "325.6"
@@ -10508,8 +10508,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "321.3"
         },
@@ -12142,7 +12142,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "326.5"
@@ -12229,8 +12229,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "323.6"
         },
@@ -13721,7 +13721,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "323.5"
@@ -13808,8 +13808,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "320.5"
         },
@@ -15480,7 +15480,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             }
         },
@@ -15566,8 +15566,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "322.1"
         },
@@ -17213,7 +17213,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "334.6"
@@ -17302,8 +17302,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "323.6"
         },
@@ -18878,7 +18878,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "322.0"
@@ -18966,8 +18966,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "321.3"
         },
@@ -20561,7 +20561,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "325.0"
@@ -20650,8 +20650,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "324.0"
         },
@@ -22181,7 +22181,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "323.0"
@@ -22270,8 +22270,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "322.3"
         },
@@ -23774,7 +23774,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "326.5"
@@ -23862,8 +23862,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "324.5"
         },
@@ -25422,7 +25422,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "326.7"
@@ -25506,8 +25506,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "318.0"
         },
@@ -27037,7 +27037,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "327.5"
@@ -27123,8 +27123,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "322.6"
         },
@@ -28641,7 +28641,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "334.3"
@@ -28730,8 +28730,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "322.3"
         },
@@ -30382,7 +30382,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "326.4"
@@ -30431,8 +30431,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "320.7"
         },
@@ -31779,7 +31779,7 @@
             },
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             },
             "km/h": "325.5"
@@ -31863,8 +31863,8 @@
             },
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             },
             "km/h": "318.9"
         },
@@ -33129,15 +33129,15 @@
         "Miami GP": {
             "Circuit": {
                 "Name": "Miami International Autodrome",
-                "Length": "3.363 miles (5.412",
+                "Length": "5.412",
                 "Turns": "19"
             }
         },
         "Spanish GP": {
             "Circuit": {
                 "Name": "Circuit de Barcelona-Catalunya",
-                "Length": null,
-                "Turns": null
+                "Length": "5.412",
+                "Turns": "19"
             }
         },
         "Monaco GP": {
