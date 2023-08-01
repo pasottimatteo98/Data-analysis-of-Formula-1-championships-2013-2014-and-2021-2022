@@ -270,6 +270,7 @@ for x, y, label in zip(x_values_sorted, y_values_sorted, labels_sorted):
 
 plt.show()
 
+# Trova i piloti comuni nei due anni per ogni GP
 
 # Trova i piloti comuni nei due anni per ogni GP
 common_gp = list(set(gp_drivers_speeds.keys()).intersection(set(gp_drivers_speeds1.keys())))

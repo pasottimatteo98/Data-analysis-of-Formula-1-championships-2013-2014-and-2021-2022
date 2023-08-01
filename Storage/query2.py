@@ -362,7 +362,6 @@ averages_2022 = {}
 
 #---------------------------2013-------------------------------
 # Cicla sui Gran Premi (GP) nel 2013
-
 for document in cursor:
     for driver, driver_data in document.items():
         if driver != "_id":
@@ -400,9 +399,9 @@ for document in cursor:
                                                                int(max_laps_driver) + 1) and lap_num in driver_laps_info:
                                         section_3.append(lap_time_sec)
 
-                            section_averages_1_2013 = sum(section_1) / len(section_1) if len(section_1) > 1 else None
-                            section_averages_2_2013 = sum(section_2) / len(section_2) if len(section_2) > 0 else None
-                            section_averages_3_2013 = sum(section_3) / len(section_3) if len(section_3) > 0 else None
+                            section_averages_1_2013 = sum(section_1) / len(section_1) if section_1 else 0.0
+                            section_averages_2_2013 = sum(section_2) / len(section_2) if section_2 else 0.0
+                            section_averages_3_2013 = sum(section_3) / len(section_3) if section_3 else 0.0
                             # Memorizza i tempi medi delle sezioni per ogni pilota e GP nel dizionario
                             if gp not in averages_2013:
                                 averages_2013[gp] = {}
@@ -460,9 +459,9 @@ for document in cursor1:
                                         section_3.append(lap_time_sec)
 
 
-                            section_averages_1_2014= sum(section_1) / len(section_1) if len(section_1) > 1 else None
-                            section_averages_2_2014 = sum(section_2) / len(section_2) if len(section_2) > 0 else None
-                            section_averages_3_2014 = sum(section_3) / len(section_3) if len(section_3) > 0 else None
+                            section_averages_1_2014 = sum(section_1) / len(section_1) if section_1 else 0.0
+                            section_averages_2_2014 = sum(section_2) / len(section_2) if section_2 else 0.0
+                            section_averages_3_2014 = sum(section_3) / len(section_3) if section_3 else 0.0
                             # Memorizza i tempi medi delle sezioni per ogni pilota e GP nel dizionario
                             if gp not in averages_2014:
                                 averages_2014[gp] = {}
@@ -1021,4 +1020,4 @@ plt.legend()
 
 
 plt.tight_layout()
-plt.show()
+plt.show() 
