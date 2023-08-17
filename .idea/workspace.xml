@@ -6,15 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="615844f6-e67c-44cd-937b-4d6e1ab709ba" name="Changes" comment="Bug Fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2021.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2021.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2022.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2022.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2013.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2014.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2021.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2022.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2013.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2013.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2014.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2014.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2021.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2021.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2022.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2022.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RawDataCollected/WebScraping/Seasons/Season2021.json" beforeDir="false" afterPath="$PROJECT_DIR$/RawDataCollected/WebScraping/Seasons/Season2021.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RawDataCollected/WebScraping/Seasons/Season2022.json" beforeDir="false" afterPath="$PROJECT_DIR$/RawDataCollected/WebScraping/Seasons/Season2022.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690720392102</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Bug Fix">
+      <option name="closed" value="true" />
+      <created>1690914523891</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1690914523891</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
