@@ -130,7 +130,13 @@ for nome_gran_premio in nomi_gran_premi:
             'pneumatici da pioggia', 'safety car'
         ]
         for parola_chiave in parole_chiave_meteo_italiano:
-            if parola_chiave in testo_qualifiche_risultati_italiano.lower():
+            if "si svolge senza pioggia" in testo_qualifiche_risultati_italiano:
+                condizione_meteo = "sun"
+            if "possibile arrivo della pioggia" in testo_qualifiche_risultati_italiano:
+                condizione_meteo = "sun"
+            if "non c'è minaccia della pioggia" in testo_qualifiche_risultati_italiano:
+                condizione_meteo = "sun"
+            elif parola_chiave in testo_qualifiche_risultati_italiano.lower():
                 condizione_meteo = "rain"
                 break
 
