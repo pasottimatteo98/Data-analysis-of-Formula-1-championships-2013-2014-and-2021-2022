@@ -23,7 +23,7 @@ for anno in anni:
     circuit_data ={}
 
     print(f'DRIVER CHECK')
-    print(f'Number of drivers in 2013: {len(data1)}\n')
+    print(f'Number of drivers: {len(data1)}\n')
 
     for driver, driver_data in data1.items():
         if isinstance(driver_data, dict):
@@ -43,10 +43,12 @@ for anno in anni:
                     if gp != "_id" and gp != "Car":
                         if not "Qualifying" in gp_data:
                             notqual += 1
+                            print(f'NQ: {driver}, {gp}')
                         else:
                             qual += 1
                         if not "Laps" in gp_data:
                             notlaps += 1
+                            print(f'NL: {driver}, {gp}')
                         else:
                             laps += 1
                         if not "Circuit" in gp_data:
@@ -98,13 +100,16 @@ for anno in anni:
                                 laps_data[driver][gp] = 0
 
                         if "Circuit" in gp_data:
-                            if len(gp_data["Circuit"]) == len(gp_data["Circuit"].values()):
-                                if driver not in circuit_data:
-                                    circuit_data[driver] = {}
-                                if gp not in circuit_data[driver]:
-                                    circuit_data[driver][gp] = len(gp_data["Circuit"])
+                            if gp_data["Circuit"]["Name"] and gp_data["Circuit"]["Length"] and gp_data["Circuit"]["Turns"]:
+                                if len(gp_data["Circuit"]) == len(gp_data["Circuit"].values()):
+                                    if driver not in circuit_data:
+                                        circuit_data[driver] = {}
+                                    if gp not in circuit_data[driver]:
+                                        circuit_data[driver][gp] = len(gp_data["Circuit"])
+                                else:
+                                    print(f'{driver}, {gp}, {len(gp_data["Circuit"])}, {len(gp_data["Circuit"].values())}')
                             else:
-                                print(f'{driver}, {gp}, {len(gp_data["Circuit"])}, {len(gp_data["Circuit"].values())}')
+                                print(f'circuit problem: {driver}, {gp}')
 
                 result_qual = {
                     "Driver": driver,
