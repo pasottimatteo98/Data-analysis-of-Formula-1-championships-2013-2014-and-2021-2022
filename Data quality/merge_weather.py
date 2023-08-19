@@ -1,39 +1,38 @@
-import os
+
 import json
 import pandas as pd
 
-# Lista delle cartelle con gli anni desiderati
+# Elenco dei nomi dei file JSON con la parte dell'anno variabile
 anni = ['2013', '2014', '2021', '2022']
 
-dict_weather = {}
+
 
 for anno in anni:
+    wq_dict = {}
     # Costruisci il percorso del file JSON
-    percorso_file = f"../RawDataCollected/WebScraping/Weather_Qualifying/{anno}/Weather_Qualifying.json"
+    percorso_file = f"../Data Acquisition/Final_Data/FinalDataset{anno}.json"
 
     # Load the content of the JSON file
     with open(percorso_file, 'r') as file1:
         data1 = json.load(file1)
-        dict_weather[anno] = {"GP": len(data1), "V": len(data1.values())}
 
-df_weather = pd.DataFrame(dict_weather).transpose()
-print(f'WEATHER QUALIFYING\n')
-print(df_weather)
+    for driver, driver_data in data1.items():
+        for gp, gp_data in driver_data.items():
+            if "Qualifying" in gp_data:
+                if gp_data["Qualifying"]["Weather Condition"] and (gp_data["Qualifying"]["Weather Condition"] == "rain" or gp_data["Qualifying"]["Weather Condition"] == "sun"):
+                    if gp not in wq_dict:
+                        wq_dict[gp] = {"number of wq": 1, "number of wr": 0}
+                    else:
+                        wq_dict[gp]["number of wq"] += 1
+            if "Laps" in gp_data:
+                if gp_data["Laps"]["Weather Condition"] and (gp_data["Laps"]["Weather Condition"] == "rain" or gp_data["Laps"]["Weather Condition"] == "sun"):
+                    if gp not in wq_dict:
+                        wq_dict[gp] = {"number of wq": wq_dict[gp]["number of wq"], "number of wr": 1}
+                    else:
+                        wq_dict[gp]["number of wr"] += 1
 
-dict_weather = {}
 
-for anno in anni:
+    print(f'\n{anno} \n')
 
-    # Costruisci il percorso del file JSON
-    percorso_file = f"../RawDataCollected/WebScraping/Weather_Race/{anno}/Weather_Race.json"
-
-    # Load the content of the JSON file
-    with open(percorso_file, 'r') as file1:
-        data1 = json.load(file1)
-        for key in data1:
-            if data1[key] == "rain" or data1[key] == "sun":
-                dict_weather[anno] = {"GP": len(data1), "V": len(data1.values())}
-
-df_weather = pd.DataFrame(dict_weather).transpose()
-print(f'\nWEATHER RACE\n')
-print(df_weather)
+    df = pd.DataFrame(wq_dict).transpose()
+    print(df)
