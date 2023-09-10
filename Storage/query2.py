@@ -671,15 +671,15 @@ for gp in averages_2013.keys():
 
         if section_averages_1_2013_filtered:
             plt.scatter(range(len(section_averages_1_2013_filtered)), section_averages_1_2013_filtered,
-                        color='orange', marker='^', label='Sezione 1 (2013)')
+                        color='orange', marker='^', label='Section 1 (2013)')
 
         if section_averages_2_2013_filtered:
             plt.scatter(range(len(section_averages_2_2013_filtered)), section_averages_2_2013_filtered,
-                        color='green', marker='^', label='Sezione 2 (2013)')
+                        color='green', marker='^', label='Section 2 (2013)')
 
         if section_averages_3_2013_filtered:
             plt.scatter(range(len(section_averages_3_2013_filtered)), section_averages_3_2013_filtered,
-                        color='blue', marker='^', label='Sezione 3 (2013)')
+                        color='blue', marker='^', label='Section 3 (2013)')
 
         # Scatterplot per il 2014
         section_averages_1_2014_filtered = [value if value != 0 else None for value in section_averages_1_2014]
@@ -688,22 +688,22 @@ for gp in averages_2013.keys():
 
         if section_averages_1_2014_filtered:
             plt.scatter(range(len(section_averages_1_2014_filtered)), section_averages_1_2014_filtered,
-                        color='orange', marker='*', label='Sezione 1 (2014)')
+                        color='orange', marker='*', label='Section 1 (2014)')
 
         if section_averages_2_2014_filtered:
             plt.scatter(range(len(section_averages_2_2014_filtered)), section_averages_2_2014_filtered,
-                        color='green', marker='*', label='Sezione 2 (2014)')
+                        color='green', marker='*', label='Section 2 (2014)')
 
         if section_averages_3_2014_filtered:
             plt.scatter(range(len(section_averages_3_2014_filtered)), section_averages_3_2014_filtered,
-                        color='blue', marker='*', label='Sezione 3 (2014)')
+                        color='blue', marker='*', label='Section 3 (2014)')
 
         # Etichette degli assi x
         x_labels = common_drivers2
-        plt.xlabel('Piloti')
-        plt.ylabel('Tempo medio sulle sezioni (secondi)')
-        plt.title(f'Tempi medi sulle sezioni per il GP: {gp}')
-        plt.legend()
+        plt.xlabel('Drivers')
+        plt.ylabel('Time (s)')
+        plt.title(f'Average section times {gp}')
+        plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left')
         plt.xticks(range(len(x_labels)), x_labels, rotation=90)
         plt.tight_layout()
         plt.show()
@@ -746,15 +746,15 @@ for gp in averages_2021.keys():
 
         if section_averages_1_2021_filtered:
             plt.scatter(range(len(section_averages_1_2021_filtered)), section_averages_1_2021_filtered,
-                        color='orange', marker='^', label='Sezione 1 (2021)')
+                        color='orange', marker='^', label='Section 1 (2021)')
 
         if section_averages_2_2021_filtered:
             plt.scatter(range(len(section_averages_2_2021_filtered)), section_averages_2_2021_filtered,
-                        color='green', marker='^', label='Sezione 2 (2021)')
+                        color='green', marker='^', label='Section 2 (2021)')
 
         if section_averages_3_2021_filtered:
             plt.scatter(range(len(section_averages_3_2021_filtered)), section_averages_3_2021_filtered,
-                        color='blue', marker='^', label='Sezione 3 (2021)')
+                        color='blue', marker='^', label='Section 3 (2021)')
 
         # Scatterplot per il 2014
         section_averages_1_2022_filtered = [value if value != 0 else None for value in section_averages_1_2022]
@@ -763,22 +763,22 @@ for gp in averages_2021.keys():
 
         if section_averages_1_2022_filtered:
             plt.scatter(range(len(section_averages_1_2022_filtered)), section_averages_1_2022_filtered,
-                        color='orange', marker='*', label='Sezione 1 (2022)')
+                        color='orange', marker='*', label='Section 1 (2022)')
 
         if section_averages_2_2022_filtered:
             plt.scatter(range(len(section_averages_2_2022_filtered)), section_averages_2_2022_filtered,
-                        color='green', marker='*', label='Sezione 2 (2022)')
+                        color='green', marker='*', label='Section 2 (2022)')
 
         if section_averages_3_2022_filtered:
             plt.scatter(range(len(section_averages_3_2022_filtered)), section_averages_3_2022_filtered,
-                        color='blue', marker='*', label='Sezione 3 (2022)')
+                        color='blue', marker='*', label='Section 3 (2022)')
 
         # Etichette degli assi x
         x_labels = common_drivers3
-        plt.xlabel('Piloti')
-        plt.ylabel('Tempo medio sulle sezioni (secondi)')
-        plt.title(f'Tempi medi sulle sezioni per il GP: {gp}')
-        plt.legend()
+        plt.xlabel('Drivers')
+        plt.ylabel('Time (s)')
+        plt.title(f'Average section time {gp}')
+        plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left')
         plt.xticks(range(len(x_labels)), x_labels, rotation=90)
         plt.tight_layout()
         plt.show()
@@ -893,9 +893,9 @@ plt.scatter(x, y2_section1, label='Section 1 - 2014', marker='*', color='orange'
 plt.scatter(x, y2_section2, label='Section 2 - 2014', marker='*', color='green')
 plt.scatter(x, y2_section3, label='Section 3 - 2014', marker='*', color='blue')
 
-plt.xlabel('Cars')
-plt.ylabel('Times')
-plt.title('Section Times for Cars (2013 vs. 2014)')
+plt.xlabel('Team')
+plt.ylabel('Time (s)')
+plt.title('Section times for Teams (2013 vs. 2014)')
 plt.xticks(rotation=45)
 plt.legend()
 
@@ -1012,9 +1012,9 @@ plt.scatter(x, y2_section1, label='Section 1 - 2022', marker='*', color='orange'
 plt.scatter(x, y2_section2, label='Section 2 - 2022', marker='*', color='green')
 plt.scatter(x, y2_section3, label='Section 3 - 2022', marker='*', color='blue')
 
-plt.xlabel('Cars')
-plt.ylabel('Times')
-plt.title('Section Times for Cars (2021 vs. 2022)')
+plt.xlabel('Teams')
+plt.ylabel('Time (s)')
+plt.title('Section times for Teams (2021 vs. 2022)')
 plt.xticks(rotation=45)
 plt.legend()
 

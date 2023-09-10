@@ -164,9 +164,9 @@ for gp, data in data_2013.items():
         ax.scatter(drivers_2013, times_2013, color='blue', label='2013')
         ax.scatter(drivers_2014, times_2014, color='red', label='2014')
 
-        ax.set_xlabel('Piloti')
-        ax.set_ylabel('Tempo (secondi)')
-        ax.set_title(f'Qualifiche {gp}')
+        ax.set_xlabel('Drivers')
+        ax.set_ylabel('Time (s)')
+        ax.set_title(f'Qualifying times {gp}')
         ax.legend()
 
         # Ruota le etichette dell'asse x per una migliore leggibilità
@@ -199,9 +199,9 @@ for gp, data in data_2021.items():
         ax.scatter(drivers_2021, times_2021, color='blue', label='2021')
         ax.scatter(drivers_2022, times_2022, color='red', label='2022')
 
-        ax.set_xlabel('Piloti')
-        ax.set_ylabel('Tempo (secondi)')
-        ax.set_title(f'Qualifiche {gp}')
+        ax.set_xlabel('Drivers')
+        ax.set_ylabel('Time (s)')
+        ax.set_title(f'Qualifying times {gp}')
         ax.legend()
 
         # Ruota le etichette dell'asse x per una migliore leggibilità
@@ -478,13 +478,14 @@ for team in common_teams:
     x.append(team)
     y_2013.append(average_data_2013[team])
     y_2014.append(average_data_2014[team])
-
+plt.subplots(figsize=(10, 8))
+plt.subplots_adjust(bottom=0.2)
 plt.scatter(x, y_2013, color='blue', label='2013')
 plt.scatter(x, y_2014, color='red', label='2014')
 
-plt.xlabel('Scuderia')
-plt.ylabel('Secondi')
-plt.title('Tempi medi di qualifica per scuderia (2013 vs 2014)')
+plt.xlabel('Team')
+plt.ylabel('Time (s)')
+plt.title('Average qualifying times per Team (2013 vs 2014)')
 plt.legend()
 plt.xticks(rotation=45)
 # Aggiunta delle linee tratteggiate grigie che collegano i punti
@@ -499,13 +500,14 @@ for team in common_teams1:
     x1.append(team)
     y_2021.append(average_data_2021[team])
     y_2022.append(average_data_2022[team])
-
+plt.subplots(figsize=(10, 8))
+plt.subplots_adjust(bottom=0.2)
 plt.scatter(x1, y_2021, color='blue', label='2021')
 plt.scatter(x1, y_2022, color='red', label='2022')
 
-plt.xlabel('Scuderia')
-plt.ylabel('Secondi')
-plt.title('Tempi medi di qualifica per scuderia (2021 vs 2022)')
+plt.xlabel('Team')
+plt.ylabel('Time (s)')
+plt.title('Average qualifying times per Team (2013 vs 2014)')
 plt.legend()
 plt.xticks(rotation=45)
 # Aggiunta delle linee tratteggiate grigie che collegano i punti

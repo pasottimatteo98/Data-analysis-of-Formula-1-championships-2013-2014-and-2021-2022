@@ -40,8 +40,8 @@ for document in cursor:
         if driver != "_id":
             if isinstance(driver_data, dict):
                 for gp, gp_data in driver_data.items():
-                    if "Qualifying" in gp_data:
-                        if gp_data.get("Qualifying").get("Weather Condition") == "sun":
+                    #if "Qualifying" in gp_data:
+                        #if gp_data.get("Qualifying").get("Weather Condition") == "sun":
                             if isinstance(gp_data, dict):
                                 circuit = gp_data.get("Circuit")
                                 if circuit:
@@ -225,9 +225,9 @@ labels_sorted = data_points['GP'][sorted_indices]
 # Create the scatter plot
 plt.figure(figsize=(10, 6))
 plt.scatter(x_values_sorted, y_values_sorted, s=80, alpha=0.7)
-plt.xlabel("Length of GP Circuit (meters)")
-plt.ylabel("Number of Turns")
-plt.title("Scatter Plot: GP Circuit Length vs. Number of Turns 2013-2014")
+plt.xlabel("Length of GP circuit (km)")
+plt.ylabel("Number of turns")
+plt.title("GP circuit length vs number of turns (2013-2014)")
 
 
 # Add labels for each point (GP name)
@@ -259,9 +259,9 @@ labels_sorted = data_points1['GP'][sorted_indices]
 # Create the scatter plot
 plt.figure(figsize=(10, 6))
 plt.scatter(x_values_sorted, y_values_sorted, s=80, alpha=0.7)
-plt.xlabel("Length of GP Circuit (meters)")
-plt.ylabel("Number of Turns")
-plt.title("Scatter Plot: GP Circuit Length vs. Number of Turns 2021-2022")
+plt.xlabel("Length of GP circuit (km)")
+plt.ylabel("Number of turns")
+plt.title("GP circuit length vs number of turns (2021-2022)")
 
 
 # Add labels for each point (GP name)
@@ -289,9 +289,9 @@ for gp in common_pilots_by_gp.keys():
     plt.scatter(x_values, common_pilots_speed_2013, color='blue', label='2013')
     plt.scatter(x_values, common_pilots_speed_2014, color='red', label='2014')
     plt.xticks(x_values, common_pilots, rotation=45)
-    plt.xlabel('Pilota')
-    plt.ylabel('Velocità')
-    plt.title(f'Velocità piloti comuni - {gp}')
+    plt.xlabel('Drivers')
+    plt.ylabel('Speed (km/h)')
+    plt.title(f'Maximum speed {gp}')
     plt.legend()
 
     plt.tight_layout()
@@ -322,9 +322,9 @@ for gp in common_pilots_by_gp1.keys():
     plt.scatter(x_values, common_pilots_speed_2021, color='blue', label='2021')
     plt.scatter(x_values, common_pilots_speed_2022, color='red', label='2022')
     plt.xticks(x_values, common_pilots, rotation=45)
-    plt.xlabel('Pilota')
-    plt.ylabel('Velocità')
-    plt.title(f'Velocità piloti comuni - {gp}')
+    plt.xlabel('Drivers')
+    plt.ylabel('Speed (km/h)')
+    plt.title(f'Maximum speed {gp}')
     plt.legend()
 
     plt.tight_layout()
@@ -408,9 +408,9 @@ plt.scatter(macchine_comuni, velocita_media_max_dizionario1, label='2013', color
 plt.scatter(macchine_comuni, velocita_media_max_dizionario2, label='2014', color='red')
 
 # Aggiungiamo le etichette degli assi e il titolo del grafico
-plt.xlabel('Macchine')
-plt.ylabel('Velocità media massima')
-plt.title('Confronto Velocità Media Massima delle Macchine 2013-2014')
+plt.xlabel('Teams')
+plt.ylabel('Speed (km/h)')
+plt.title('Average maximum speed per Teams (2013 vs 2014)')
 plt.xticks(rotation=45)
 
 # Aggiungiamo la legenda
@@ -418,6 +418,10 @@ plt.legend()
 
 # Mostrare lo scatterplot
 plt.tight_layout()
+for i in range(len(macchine_comuni)):
+    plt.plot([macchine_comuni[i], macchine_comuni[i]], [velocita_media_max_dizionario1[i], velocita_media_max_dizionario2[i]], color='gray',
+             linestyle='dotted')
+
 plt.show()
 
 # Dizionario con le macchine come chiavi e una lista delle velocità dei piloti con quella macchina
@@ -473,9 +477,9 @@ plt.scatter(macchine_comuni, velocita_media_max_dizionario1, label='2021', color
 plt.scatter(macchine_comuni, velocita_media_max_dizionario2, label='2022', color='red')
 
 # Aggiungiamo le etichette degli assi e il titolo del grafico
-plt.xlabel('Macchine')
-plt.ylabel('Velocità media massima')
-plt.title('Confronto Velocità Media Massima delle Macchine 2021-2022')
+plt.xlabel('Teams')
+plt.ylabel('Speed (km/h)')
+plt.title('Average maximum speed per Teams (2021 vs 2022)')
 plt.xticks(rotation=45)
 
 # Aggiungiamo la legenda
@@ -483,4 +487,7 @@ plt.legend()
 
 # Mostrare lo scatterplot
 plt.tight_layout()
+for i in range(len(macchine_comuni)):
+    plt.plot([macchine_comuni[i], macchine_comuni[i]], [velocita_media_max_dizionario1[i], velocita_media_max_dizionario2[i]], color='gray',
+             linestyle='dotted')
 plt.show()

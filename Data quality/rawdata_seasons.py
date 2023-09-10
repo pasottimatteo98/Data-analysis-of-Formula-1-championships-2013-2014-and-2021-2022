@@ -166,6 +166,9 @@ for anno in anni:
     # Trasponi il DataFrame in modo che i nomi dei gruppi siano sulla colonna
 
     print(df_laps.to_string())
+    laps_json_filename = f'laps{anno}.json'
+    with open(laps_json_filename, 'w') as json_file:
+        json.dump(laps_data, json_file, indent=4)
 
     print(f'\nCIRCUIT NAME, CIRCUIT LENGTH AND CIRCUIT TURNS CHECK')
     df_circ = pd.DataFrame(circuit_data).transpose()

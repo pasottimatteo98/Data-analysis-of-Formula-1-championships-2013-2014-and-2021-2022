@@ -1,0 +1,1806 @@
+{
+    "Bahrain GP": [
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 57
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 57
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 57
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 57
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 57
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 57
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 57
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 57
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 57
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 57
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 57
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 57
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 57
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 57
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 57
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 57
+        },
+        {
+            "Driver": "Nico Hulkenberg",
+            "Laps": 57
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 56
+        },
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 54
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 44
+        }
+    ],
+    "Saudi Arabian GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 50
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 50
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 50
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 50
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 50
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 50
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 50
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 50
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 50
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 50
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 50
+        },
+        {
+            "Driver": "Nico Hulkenberg",
+            "Laps": 50
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 49
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 47
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 36
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 35
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 35
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 14
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 0
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 0
+        }
+    ],
+    "Australian GP": [
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 58
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 58
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 58
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 58
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 58
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 58
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 58
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 58
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 58
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 58
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 58
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 58
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 57
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 57
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 57
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 57
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 57
+        },
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 38
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 22
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 1
+        }
+    ],
+    "Emilia Romagna GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 63
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 63
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 63
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 63
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 63
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 63
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 63
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 63
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 63
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 62
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 62
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 62
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 62
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 62
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 62
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 62
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 62
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 62
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 6
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 0
+        }
+    ],
+    "Miami GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 57
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 57
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 57
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 57
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 57
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 57
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 57
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 57
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 57
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 57
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 57
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 57
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 57
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 57
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 57
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 56
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 54
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 45
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 39
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 6
+        }
+    ],
+    "Spanish GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 66
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 66
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 66
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 66
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 66
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 66
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 66
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 66
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 65
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 65
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 65
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 65
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 65
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 65
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 65
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 64
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 64
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 64
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 28
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 27
+        }
+    ],
+    "Monaco GP": [
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 64
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 64
+        },
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 64
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 64
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 64
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 64
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 64
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 64
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 64
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 64
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 64
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 64
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 64
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 64
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 63
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 63
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 63
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 48
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 24
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 19
+        }
+    ],
+    "Azerbaijan GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 51
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 51
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 51
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 51
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 51
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 51
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 51
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 51
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 51
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 51
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 50
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 50
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 50
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 50
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 50
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 46
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 31
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 23
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 21
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 8
+        }
+    ],
+    "Canadian GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 70
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 70
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 70
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 70
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 70
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 70
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 70
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 70
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 70
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 70
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 70
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 70
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 70
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 70
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 70
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 70
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 70
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 47
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 18
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 7
+        }
+    ],
+    "British GP": [
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 52
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 52
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 52
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 52
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 52
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 52
+        },
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 52
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 52
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 52
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 52
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 52
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 52
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 52
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 52
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 37
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 26
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 20
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 0
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 0
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 0
+        }
+    ],
+    "Austrian GP": [
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 71
+        },
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 71
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 71
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 71
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 71
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 70
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 70
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 70
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 70
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 70
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 70
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 70
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 70
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 70
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 70
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 70
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 70
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 56
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 48
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 24
+        }
+    ],
+    "French GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 53
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 53
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 53
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 53
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 53
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 53
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 53
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 53
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 53
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 53
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 53
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 53
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 53
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 53
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 53
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 47
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 40
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 37
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 17
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 17
+        }
+    ],
+    "Hungarian GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 70
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 70
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 70
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 70
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 70
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 70
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 70
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 69
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 69
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 69
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 69
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 69
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 69
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 69
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 69
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 69
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 69
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 69
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 68
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 65
+        }
+    ],
+    "Belgian GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 44
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 44
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 44
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 44
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 44
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 44
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 44
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 44
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 44
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 44
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 44
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 44
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 44
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 44
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 44
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 43
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 43
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 43
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 1
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 0
+        }
+    ],
+    "Dutch GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 72
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 72
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 72
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 72
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 72
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 72
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 72
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 72
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 72
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 72
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 72
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 72
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 72
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 72
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 72
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 72
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 72
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 71
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 53
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 43
+        }
+    ],
+    "Singapore GP": [
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 59
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 59
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 59
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 59
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 59
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 59
+        },
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 59
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 59
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 59
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 59
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 59
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 59
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 58
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 57
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 34
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 26
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 25
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 20
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 7
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 6
+        }
+    ],
+    "Japanese GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 28
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 28
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 28
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 28
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 28
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 28
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 28
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 28
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 28
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 28
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 28
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 28
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 28
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 28
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 28
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 28
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 28
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 28
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 0
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 0
+        }
+    ],
+    "United States GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 56
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 56
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 56
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 56
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 56
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 56
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 56
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 56
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 56
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 56
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 56
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 56
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 56
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 56
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 56
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 56
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 56
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 21
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 16
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 1
+        }
+    ],
+    "Mexico City GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 71
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 71
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 71
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 71
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 71
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 71
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 70
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 70
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 70
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 70
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 70
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 70
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 70
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 70
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 70
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 70
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 70
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 69
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 63
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 50
+        }
+    ],
+    "Brazilian GP": [
+        {
+            "Driver": "George Russell",
+            "Laps": 71
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 71
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 71
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 71
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 71
+        },
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 71
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 71
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 71
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 71
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 71
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 71
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 71
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 71
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 71
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 71
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 71
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 70
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 50
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 0
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 0
+        }
+    ],
+    "Abu Dhabi GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 58
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 58
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 58
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 58
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 58
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 58
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 58
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 58
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 58
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 58
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 58
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 57
+        },
+        {
+            "Driver": "Alexander Albon",
+            "Laps": 57
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 57
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 57
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 57
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 57
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 55
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 55
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 27
+        }
+    ],
+    "Italian GP": [
+        {
+            "Driver": "Max Verstappen",
+            "Laps": 53
+        },
+        {
+            "Driver": "Charles Leclerc",
+            "Laps": 53
+        },
+        {
+            "Driver": "George Russell",
+            "Laps": 53
+        },
+        {
+            "Driver": "Carlos Sainz",
+            "Laps": 53
+        },
+        {
+            "Driver": "Lewis Hamilton",
+            "Laps": 53
+        },
+        {
+            "Driver": "Sergio Perez",
+            "Laps": 53
+        },
+        {
+            "Driver": "Lando Norris",
+            "Laps": 53
+        },
+        {
+            "Driver": "Pierre Gasly",
+            "Laps": 53
+        },
+        {
+            "Driver": "Nyck De Vries",
+            "Laps": 53
+        },
+        {
+            "Driver": "Guanyu Zhou",
+            "Laps": 53
+        },
+        {
+            "Driver": "Esteban Ocon",
+            "Laps": 53
+        },
+        {
+            "Driver": "Mick Schumacher",
+            "Laps": 53
+        },
+        {
+            "Driver": "Valtteri Bottas",
+            "Laps": 52
+        },
+        {
+            "Driver": "Yuki Tsunoda",
+            "Laps": 52
+        },
+        {
+            "Driver": "Nicholas Latifi",
+            "Laps": 52
+        },
+        {
+            "Driver": "Kevin Magnussen",
+            "Laps": 52
+        },
+        {
+            "Driver": "Daniel Ricciardo",
+            "Laps": 45
+        },
+        {
+            "Driver": "Lance Stroll",
+            "Laps": 39
+        },
+        {
+            "Driver": "Fernando Alonso",
+            "Laps": 31
+        },
+        {
+            "Driver": "Sebastian Vettel",
+            "Laps": 10
+        }
+    ]
+}
