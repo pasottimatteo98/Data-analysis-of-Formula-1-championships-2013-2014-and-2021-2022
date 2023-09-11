@@ -7,25 +7,6 @@ username = "DataMan"
 password = "Bicocca1"
 clustername = "ClusterDataMan"
 dbname = "Database"
-collection_name = "2013"
-collection_name1 = "2014"
-
-# Connessione al cluster MongoDB
-uri = f"mongodb+srv://{username}:{password}@{clustername}.f7nnvlh.mongodb.net/{dbname}?retryWrites=true&w=majority"
-client = pymongo.MongoClient(uri)
-
-# Accesso alla collezione
-db = client[dbname]
-collection = db[collection_name]
-import pymongo
-import json
-import matplotlib.pyplot as plt
-
-# Credenziali e dettagli del cluster
-username = "DataMan"
-password = "Bicocca1"
-clustername = "ClusterDataMan"
-dbname = "Database"
 collection_name = "2022"
 collection_name1 = "2014"
 

@@ -13,8 +13,7 @@ from fuzzywuzzy import fuzz
 
 
 # Initialize the Chrome chrome_driver
-s = Service('../../ChromeDriver/chromedriver.exe')
-chrome_driver = webdriver.Chrome(service=s)
+chrome_driver = webdriver.Chrome()
 
 # List of all possible values for the 2013 season (race and chrome_driver)
 seasons = ['7']  # Season 2013

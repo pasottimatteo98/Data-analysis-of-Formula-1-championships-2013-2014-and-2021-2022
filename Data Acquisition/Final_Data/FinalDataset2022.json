@@ -26549,6 +26549,16 @@
             }
         },
         "Brazilian GP": {
+            "Qualifying": {
+                "Q3 Time": [],
+                "Q2 Time": [
+                    "1:12.210"
+                ],
+                "Q1 Time": [
+                    "1:14.398"
+                ],
+                "Weather Condition": "rain"
+            },
             "Laps": {
                 "1": "1:45.389",
                 "2": "1:51.889",

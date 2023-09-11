@@ -13,8 +13,7 @@ from bs4 import BeautifulSoup
 from fuzzywuzzy import fuzz
 
 # Initialize the Chrome chrome_driver
-s = Service('../../ChromeDriver/chromedriver.exe')
-chrome_driver = webdriver.Chrome(service=s)
+chrome_driver = webdriver.Chrome()
 
 # List of all possible values for the 2014 season (race and chrome_driver)
 seasons = ['6'] #Season 2014

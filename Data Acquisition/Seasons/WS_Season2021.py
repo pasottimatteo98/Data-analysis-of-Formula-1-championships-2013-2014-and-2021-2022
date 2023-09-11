@@ -13,8 +13,7 @@ from bs4 import BeautifulSoup
 from fuzzywuzzy import fuzz
 
 # Initialize the Chrome chrome_driver
-s = Service('../../ChromeDriver/chromedriver.exe')
-chrome_driver = webdriver.Chrome(service=s)
+chrome_driver = webdriver.Chrome()
 
 # List of all possible values for the 2014 season (race and chrome_driver)
 seasons = ['72'] #Season 2021
@@ -343,11 +342,13 @@ for _url in circuit_url:
 for driver in complete_data:
     for gp in complete_data[driver]:
         if gp != "Car":
-            nome_circuito = complete_data[driver][gp]["Circuit"]["Name"]
-            for circuit in stats_circuit:
-                if circuit["Circuit"] == nome_circuito:
-                    complete_data[driver][gp]["Circuit"]["Length"] = circuit["Length"]
-                    complete_data[driver][gp]["Circuit"]["Turns"] = circuit["Turns"]
+            race_info = complete_data[driver][gp]  # Store the dictionary to avoid multiple lookups
+            if "Circuit" in race_info:
+                nome_circuito = race_info["Circuit"].get("Name")
+                for circuit in stats_circuit:
+                    if circuit.get("Circuit") == nome_circuito:
+                        race_info["Circuit"]["Length"] = circuit.get("Length")
+                        race_info["Circuit"]["Turns"] = circuit.get("Turns")
 
 # </editor-fold>
 

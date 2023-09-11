@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="615844f6-e67c-44cd-937b-4d6e1ab709ba" name="Changes" comment="Bug Fix">
+      <change afterPath="$PROJECT_DIR$/ChromeDriver/chromedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2013.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2014.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2021.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2022.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2021.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merge/QualifyingMaxSpeed_Season_Merge2022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2013.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2013.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2014.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2014.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2021.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2021.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2014.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2014.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2022.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Final_Data/FinalDataset2022.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2022.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Merged_Data/Qualifying_Season_Merged_2022.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RawDataCollected/WebScraping/Weather_Qualifying/2014/Weather_Qualifying.json" beforeDir="false" afterPath="$PROJECT_DIR$/RawDataCollected/WebScraping/Weather_Qualifying/2014/Weather_Qualifying.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Storage/Connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Storage/Connection.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,72 +293,72 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py</url>
-          <line>344</line>
+          <line>343</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py</url>
-          <line>345</line>
+          <line>344</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py</url>
-          <line>262</line>
+          <line>261</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py</url>
-          <line>265</line>
+          <line>264</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py</url>
-          <line>267</line>
+          <line>266</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py</url>
-          <line>266</line>
+          <line>265</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py</url>
-          <line>271</line>
+          <line>270</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py</url>
-          <line>291</line>
+          <line>290</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py</url>
-          <line>292</line>
+          <line>291</line>
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py</url>
-          <line>293</line>
+          <line>292</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2021.py</url>
-          <line>294</line>
+          <line>293</line>
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2022.py</url>
-          <line>327</line>
+          <line>326</line>
           <option name="timeStamp" value="110" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2022.py</url>
-          <line>334</line>
+          <line>333</line>
           <option name="timeStamp" value="111" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Acquisition/Seasons/WS_Season2022.py</url>
-          <line>335</line>
+          <line>334</line>
           <option name="timeStamp" value="112" />
         </line-breakpoint>
       </breakpoints>
